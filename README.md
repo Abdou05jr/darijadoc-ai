@@ -207,4 +207,4 @@ places data and the prescription extraction, and the voice module's design — l
 
 ---
 
-**DarijaDoc is a test bench, not a doctor.** `hadchi mjarrad chra7, machorch dakter awla.`
+**DarijaDoc is a test bench, not a doctor.** `hadchi mojard char7, machi  doctor ola tbeb.`
