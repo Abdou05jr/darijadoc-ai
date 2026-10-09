@@ -24,9 +24,11 @@ let lastPhotoCheck = null; // image stats, so the confirm gate can use them
 /* ------------------------------------------------------------------ theme */
 
 const THEME_KEY = "darijadoc.theme";
+const themeUse = document.querySelector("#themeBtn use");
 function setTheme(t) {
   document.documentElement.dataset.theme = t;
   localStorage.setItem(THEME_KEY, t);
+  if (themeUse) themeUse.setAttribute("href", t === "dark" ? "#i-sun" : "#i-moon");
 }
 setTheme(
   localStorage.getItem(THEME_KEY) ||
@@ -822,6 +824,12 @@ function renderSteps(r) {
 
 // speakResponse hands back a stop function, not a promise, so poll isSpeaking()
 // to keep the button label honest.
+const speakUse = document.querySelector("#speakBtn use");
+const setSpeak = (playing) => {
+  $("#speakLabel").textContent = playing ? "Stop" : "Play";
+  if (speakUse) speakUse.setAttribute("href", playing ? "#i-stop" : "#i-speaker");
+};
+
 let voicePoll;
 $("#speakBtn").addEventListener("click", () => {
   if (!current) return;
@@ -830,12 +838,12 @@ $("#speakBtn").addEventListener("click", () => {
     return;
   }
   speakResponse(current);
-  $("#speakBtn").textContent = "⏹ Stop";
+  setSpeak(true);
   clearInterval(voicePoll);
   voicePoll = setInterval(() => {
     if (!isSpeaking()) {
       clearInterval(voicePoll);
-      $("#speakBtn").textContent = "🔊 Play";
+      setSpeak(false);
     }
   }, 250);
 });

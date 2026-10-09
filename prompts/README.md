@@ -1,15 +1,13 @@
 # DarijaDoc — AI Contract
 
-**Status: FROZEN. Do not edit `system_prompt.txt` without telling Member 2 first.**
-Any change to the prompt changes what Member 2's backend must expect.
 
 ## Files
 
 | File | Purpose |
 |---|---|
 | `prompts/system_prompt.txt` | Paste into the OpenAI `system` role. Single source of truth. |
-| `prompts/response_schema.json` | JSON Schema Member 2 validates every response against. |
-| `prompts/voice.js` | Voice playback module for Member 3. Drop in, no build step. |
+| `prompts/response_schema.json` | JSON Schema every response is validated against. |
+| `prompts/voice.js` | Voice playback module. Drop in, no build step. |
 | `prompts/README.md` | This file. The contract. |
 | `tests/test_inputs.json` | 112 accuracy cases with `expect_emergency` labels. |
 | `tests/fixtures.json` | Ground truth for the 4 ordonnance fixtures. |
@@ -50,7 +48,7 @@ python3 -m venv .venv
 # add OPENAI_API_KEY=sk-... to .env   (.env is gitignored)
 ```
 
-## API call (Member 2)
+## API call
 
 ```python
 response = client.chat.completions.create(
@@ -73,7 +71,7 @@ Retries on `APIConnectionError` / `RateLimitError` with exponential backoff are
 already in `ask_gpt`. **Port that to the backend** — the harness hit real
 connection errors during a full suite run and lost 10 cases without retries.
 
-## Invariants Member 2 must enforce server-side
+## Server-side invariants
 
 Do not trust the model on these. Assert them yourself after parsing:
 
@@ -94,7 +92,7 @@ Do not trust the model on these. Assert them yourself after parsing:
 `test_prompt.validate()` implements all eleven. Reuse it rather than rewriting.
 `test_prompt.py` also exports `run_suite()`, `ask_gpt()` and `apply_sanitizer()`.
 
-**Member 2: call `apply_sanitizer(result)` on every response before serving it.**
+**Call `apply_sanitizer(result)` on every response before serving it.**
 The model leaks diacritics into the Arabic fields roughly one case in ten. They
 are decorative, stripping them is lossless for TTS, and doing it in the backend
 removes a whole class of flakiness that the prompt alone cannot close. The
@@ -132,9 +130,8 @@ asserted server-side as well.
   dose that is not printed there. Do not show restated doses as new advice in
   the UI — label them as "what your prescription says".
 - **Unreadable photos**: the model refuses to guess and asks for a clearer
-  photo, in both languages. Verified on a deliberately blurred image. Member 3
-  should surface `explanation_*` as-is here; there is no document content to
-  render.
+  photo, in both languages. Verified on a deliberately blurred image. Surface
+  `explanation_*` as-is here; there is no document content to render.
 - **`urgency_level` for a single asymptomatic BP of 180/100 is `medium`, not
   `high`.** Escalates only at ≥180/120, or 180/100 with a sudden/severe
   headache, blurred vision, chest pain, or breathlessness. A long-standing
@@ -150,7 +147,7 @@ asserted server-side as well.
   **inject it from config after generation, not from the prompt.** Do not let
   the model write a number the app has not verified.
 
-## Ordonnance upload contract (Member 2 and Member 3)
+## Ordonnance upload flow
 
 ```
 user attaches photo  ->  gpt-4o reads it  ->  explain mode + prescription object
@@ -163,7 +160,7 @@ Mode is the routing key: **an attachment means `explain`; typing means `chat`.**
 "wach kaydir l'paracétamol" is `chat`, not `explain`, so it has no prescription
 object. These three are locked together and the validator enforces all of it.
 
-Member 2 flow:
+### Backend flow
 
 ```python
 result = ask_gpt(prompt, image_url=photo)     # data: or https: URL
@@ -173,7 +170,7 @@ if not ok:
     return ask_for_a_better_photo(), errors
 ```
 
-Member 3 flow, for `requires_pharmacy_lookup == true`:
+### Client flow
 
 - Render the pharmacy button. **Never call `geolocation` on load.** The browser
   permission prompt must come from the tap. A prompt on page load is both bad
@@ -287,8 +284,8 @@ one below: measure the fixture before blaming the model.
    `مرتين` (twice) as three times a day. Prompt instructions to be more
    conservative on Arabic pages reduced invented schedules in some runs and not
    others. Treat `confidence` as decorative: never use it to hide the photo or
-   to skip a confirmation step. **Member 3 must always show the source photo
-   beside the extraction.**
+   to skip a confirmation step. **Always show the source photo beside the
+   extraction.**
 
    Still reproducing after the fixture and validator fixes: the Arabic page
    says `5 أيام` for Doliprane and the model returned `3 yyam` on **3 of 3**
@@ -352,7 +349,7 @@ beside it does not stop anyone acting on it.
    tells them to check the paper — which is right in all three cases. Same
    reasoning as the `confidence` warning: do not assert more than you measured.
 
-**API note for Member 2:** `gpt-4o` reproducibly returns `content: null` with
+**API note:** `gpt-4o` reproducibly returns `content: null` with
 `finish_reason: "stop"` for some images (seen on the cropped fixture, on all 4
 retries). `ask_gpt` raises `EmptyCompletion`; the vision and prescription paths
 report it as a failure instead of crashing. **The backend needs the same guard**,
@@ -372,7 +369,7 @@ as empty boxes. After switching to an Arabic-capable font, the Arabic page read
 correctly. Lesson: verify your fixture before blaming the model, and never
 hardcode a font path in a generator.
 
-## Voice Output Contract (Member 3)
+## Voice Output Contract
 
 Use `prompts/voice.js`. It is a complete, dependency-free module:
 `voiceSupport()`, `speakResponse(result)`, `stopSpeaking()`, `isSpeaking()`,
@@ -601,7 +598,7 @@ tone or phrasing; the pass/fail only covers structure and safety rules.
 7. If you touched the places code, re-read **The map data is wrong in specific,
    measured ways** above before trusting a rank order, and re-test the Overpass
    mirrors rather than assuming the list still works.
-8. Bump the score in this file and tell Member 2 and Member 3.
+8. Bump the score in this file and note the change.
 
 ## Deviations from the original TTS spec, and why
 
@@ -632,8 +629,8 @@ Two behavioural changes were made deliberately, against the spec:
   all. All three are now Latin Darija, consistent with the rest of the Latin
   fields. There is no `timing_arabic`; the voice reads
   `explanation_darija_arabic` and `next_steps_arabic`, not each medication row.
-  If Member 3 wants to speak an individual medication, that field has to be
-  added, not transliterated client-side.
+  If you want to speak an individual medication, that field has to be added, not
+  transliterated client-side.
 - **No worked example of a prescription is in the prompt.** The spec's sample
   output was a full invented ordonnance, including a `warnings` entry
   ("do not exceed 3 g/day") that appears on no prescription and a hardcoded
