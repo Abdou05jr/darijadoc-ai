@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayn lmkn tkoun 3indak t7assos aw 7aja f 3in. Lwja3 f 3in ymkn ykoun 3la 9bal 7aja bhal t7assos, l3yan, aw infection. Ila kan lwja3 qwi bzaf aw ma kayt7ssnch, khassak tji l doktor.",
+  "explanation_darija_arabic": "كاين لمكن تكون عندك تحسس أو حاجة ف عين. الوجع ف عين يمكن يكون على قبل حاجة بحال تحسس، العيان، أو إنفكسيون. إلا كان الوجع قوي بزاف أو ما كايتحسنش، خاصك تجي ل دكتور.",
+  "explanation_french": "Il est possible que vous ayez une allergie ou quelque chose dans l'œil. La douleur à l'œil peut être due à une allergie, de la fatigue ou une infection. Si la douleur est très forte ou ne s'améliore pas, vous devez consulter un médecin.",
+  "next_steps": [
+    "Ra7 ra7k 3in w mat7kkch",
+    "Sir l doktor ila ma t7ssntch",
+    "Ila kan lwja3 qwi, sir l sbitar"
+  ],
+  "next_steps_arabic": [
+    "راح راحك عين وما تحككش",
+    "سير ل دكتور إلا ما تحسنتش",
+    "إلا كان الوجع قوي، سير ل سبيطار"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

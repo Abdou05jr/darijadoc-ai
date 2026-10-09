@@ -1,0 +1,26 @@
+{
+  "input_language": "french",
+  "mode": "chat",
+  "explanation_darija": "Kanhssek t3ayt 3la chi wa7ed tati9 fih daba w t3ayt 3la 150. Rah hadchi khatir.",
+  "explanation_darija_arabic": "كنهسك تعيط على شي واحد تاتيق فيه دابا وتعياط على 150. راه هادشي خطير.",
+  "explanation_french": "Je vous encourage à appeler quelqu'un en qui vous avez confiance maintenant et à appeler le 150. C'est sérieux.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "Khalli chi wa7ed m3ak daba — Restez avec quelqu'un maintenant",
+    "Hdar m3a chi wa7ed fi9 fih daba — Parlez à quelqu'un de confiance maintenant"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "خلي شي واحد معاك دابا",
+    "هضر مع شي واحد فثق فيه دابا"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Suicidal language, overdose risk",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "french",
+  "prescription": null
+}

@@ -1,0 +1,26 @@
+{
+  "input_language": "french",
+  "mode": "chat",
+  "explanation_darija": "Ila weldk kay3ani mn moshkil f tnfass, khassak t3ayt 3la 150 daba bach yjiw l3awn.",
+  "explanation_darija_arabic": "إلا ولدك كيعاني من مشكل ف التنفس، خاصك تعيط على 150 دابا باش يجيوا لعاون.",
+  "explanation_french": "Si votre fils a des difficultés à respirer, appelez immédiatement le 150 pour obtenir de l'aide.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "Khalli weldk m3ak 7tta yjiw l3awn",
+    "Mat7awlich t3ti chi dwa bla nsi7a mn 150"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "خلي ولدك معك حتى يجيوا لعاون",
+    "متحاولش تعطي شي دوا بلا نصيحة من 150"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Child with difficulty breathing",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "french",
+  "prescription": null
+}

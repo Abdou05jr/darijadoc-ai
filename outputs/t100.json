@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayn 3ndk 3wja, skhana chwiya, w 7mra f 3hna. Hadchi ymkn ykoun 3la 9bal infection wla inflammation. Ila l wja3 kaydoum, sir 3nd tabib bash ychouf l 7ala.",
+  "explanation_darija_arabic": "كاين عندك عوجة، سخانة شوية، وحمرة ف العهنة. هادشي يمكن يكون على قبل إنفكسيون ولا إنفلاماسيون. إلا الوجع كيدوم، سير عند طبيب باش يشوف الحالة.",
+  "explanation_french": "Vous avez une enflure, un peu de fièvre, et une rougeur à l'aine. Cela pourrait être dû à une infection ou une inflammation. Si la douleur persiste, consultez un médecin pour évaluer la situation.",
+  "next_steps": [
+    "Rta7 w chrb lma bzzaf",
+    "Ila l wja3 ma bghach ybrrd, sir 3nd tabib",
+    "Matkhafch, ghaymkn tabib y3awnk"
+  ],
+  "next_steps_arabic": [
+    "رتاح و شرب الما بزاف",
+    "إلا الوجع ما بغاش يبرد، سير عند طبيب",
+    "ماتخافش، غيمكن طبيب يعاونك"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

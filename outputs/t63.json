@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "L9ess f rassek ymkn ykoun 3la 9bal l3dam, l3rou9, aw l3asab. Ila kayn sda3 qwi, ra hna khassak t3ayt 3la 150 daba.",
+  "explanation_darija_arabic": "القس ف راسك يمكن يكون على قبل العظام، العروق، أو الأعصاب. إلا كان صداع قوي، راه هنا خاصك تعيط على 150 دابا.",
+  "explanation_french": "La pression dans la tête peut être due aux os, aux vaisseaux sanguins ou aux nerfs. Si vous avez un mal de tête fort, appelez le 150 immédiatement.",
+  "next_steps": [
+    "Ila kayn sda3 qwi, 3ayt 3la 150 daba",
+    "Ila ma kaynch sda3 qwi, rta7 shwiya w shrab lma",
+    "Ila ma t7assantch, sir 3nd tabib"
+  ],
+  "next_steps_arabic": [
+    "إلا كان صداع قوي، عيط على 150 دابا",
+    "إلا ما كانش صداع قوي، رتاح شوية و شرب الما",
+    "إلا ما تحسنتش، سير عند طبيب"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

@@ -1,0 +1,24 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Salam! Ma kanch n3ti dawa ola n9oul 3la chi 7aja m3ayena. Ila bghiti t3rf chi 7aja f la3doul, sir 3nd tabib dyalk.",
+  "explanation_darija_arabic": "سلام! ما كنش نعطي دوا ولا نقول على شي حاجة معينة. إلا بغيتي تعرف شي حاجة ف العضل، سير عند طبيب ديالك.",
+  "explanation_french": "Salut! Je ne peux pas donner de médicaments ou dire quelque chose de précis. Si tu veux savoir quelque chose sur les muscles, consulte ton médecin.",
+  "next_steps": [
+    "Sir 3nd tabib dyalk bach t3rf akthar",
+    "Sawal tabib 3la chi kitab ola ma9ala 3la la3doul"
+  ],
+  "next_steps_arabic": [
+    "سير عند طبيب ديالك باش تعرف أكثر",
+    "سول طبيب على شي كتاب أو مقالة على العضل"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "L sda3 li kaydoum 3amra kayn mzyan. Yla kan sda3 kaydoum mn 3 snin, khask tji t3ayen 3nd tabib bach y3rf 3lach. Kayn asbab ktiro li ymkn tkoun sda3, bhal tension, l3ynin, awla chi moshkil f rass.",
+  "explanation_darija_arabic": "الصداع اللي كيدوم عمره ما كاين مزيان. يلا كان الصداع كيدوم من 3 سنين، خاصك تجي تعاين عند طبيب باش يعرف علاش. كاين أسباب كتيرة اللي يمكن تكون صداع، بحال التنسيو، العينين، أو لا شي مشكل ف الراس.",
+  "explanation_french": "Un mal de tête qui dure depuis 3 ans n'est jamais bon. Si vous avez un mal de tête persistant depuis 3 ans, vous devez consulter un médecin pour en connaître la cause. Il y a plusieurs raisons possibles pour un mal de tête, comme la tension, les yeux, ou un problème au niveau de la tête.",
+  "next_steps": [
+    "Sir 3nd tabib bach y3rf 3lach kayn sda3",
+    "7awel t3ti l tabib koul l ma3lomat 3la sda3",
+    "Matnsach t9is tension dyalk"
+  ],
+  "next_steps_arabic": [
+    "سير عند طبيب باش يعرف علاش كاين الصداع",
+    "حاول تعطي للطبيب كل المعلومات على الصداع",
+    "متنساش تقيس التنسيو ديالك"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

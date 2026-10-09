@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "ila weldk 3ando skhana w kaybka mn ghedda, khasso tabib ychoufha. skhana 3nd l'atfal khasra tkon mrataba.",
+  "explanation_darija_arabic": "إلا ولدك عندو سخانة و كيبكي من غدا، خاصو طبيب يشوفها. سخانة عند الأطفال خاصها تكون مرتابة.",
+  "explanation_french": "Si votre enfant a de la fièvre et pleure depuis hier, il doit voir un médecin. La fièvre chez les enfants doit être surveillée.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "sir l sbitar 9rib",
+    "khalli 3ndk chi wa7ed m3ak"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "سير ل سبيطار قريب",
+    "خلي عندك شي واحد معاك"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Child with high fever and persistent crying",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

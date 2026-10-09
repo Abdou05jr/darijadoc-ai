@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Ila 3andek 7amla w kayn wja3 f 9li, hadchi ymkn ykoun chi haja khatir. 7ayba f had lwa9t khasha tkon mrataba mzyan.",
+  "explanation_darija_arabic": "إلا عندك حاملة و كاين وجع ف القلي، هادشي يمكن يكون شي حاجة خطيرة. حايبة ف هاد الوقت خاصها تكون مرتابة مزيان.",
+  "explanation_french": "Si vous êtes enceinte et ressentez une douleur dans le bas-ventre, cela peut être sérieux. Une fièvre à ce stade nécessite une attention particulière.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "Sir l sbitar 9rib lik",
+    "Khalik m3a chi wa7ed m3ak"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "سير ل سبيطار قريب ليك",
+    "خليك مع شي واحد معاك"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Pregnancy with pain and fever",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

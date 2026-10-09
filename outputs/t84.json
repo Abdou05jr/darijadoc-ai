@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kaybano 3nd bentk chi 3alamat dyal constipation. Hadchi ymkn ykoun 3la 9bal lmakla, lma, awla chi 7aja f lma3ida. Ila kant l7ala katdoum, khassak tchouf tabib.",
+  "explanation_darija_arabic": "كيبانو عند بنتك شي علامات ديال constipation. هادشي يمكن يكون على قبل الماكلة، الما، أو لا شي حاجة فالمعدة. إلا كانت الحالة كاتدوم، خاصك تشوف طبيب.",
+  "explanation_french": "Il semble que votre fille a des signes de constipation. Cela peut être dû à l'alimentation, l'hydratation, ou un problème digestif. Si cela persiste, consultez un médecin.",
+  "next_steps": [
+    "7awel t3tiha ma bzzaf bach t3awnha",
+    "ila ma t7ssntch, sir 3nd tabib",
+    "tchouf chi tabib 3la lma3ida ila l7ala ma t7ssntch"
+  ],
+  "next_steps_arabic": [
+    "حاول تعطيها ما بزاف باش تعاونها",
+    "إلا ما تحسنتش، سير عند طبيب",
+    "تشوف شي طبيب على المعدة إلا الحالة ما تحسنتش"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

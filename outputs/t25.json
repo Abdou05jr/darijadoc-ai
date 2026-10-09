@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kaybano 3lik 3alamat dyal dawrane w lghatayan. Hadchi ymkn ykoun 3la 9bal chi moshkil f l'9alb, l'9dam, awla l'3youn. Ila kant hadchi jdid w ma kayt7ssnch, khassak t3awd tabib.",
+  "explanation_darija_arabic": "كيبانو عليك علامات ديال الدوخة والغثيان. هادشي يمكن يكون على قبل شي مشكل ف القلب، القدم، أو العيون. إلا كانت هادشي جديد وما كايتحسنش، خاصك تعاود طبيب.",
+  "explanation_french": "Vous ressentez des vertiges et des nausées. Cela peut être lié à un problème cardiaque, auditif ou visuel. Si cela est nouveau et ne s'améliore pas, consultez un médecin.",
+  "next_steps": [
+    "Rta7 chwya w 7awl tb9a f ma7al amn",
+    "Chrb lma bzzaf bach t9a lbadan",
+    "Ila ma t7ssntch, sir 3nd tabib f 24 sa3a"
+  ],
+  "next_steps_arabic": [
+    "رتاح شوية وحاول تبقى ف محل آمن",
+    "شرب الماء بزاف باش تقا البدن",
+    "إلا ما تحسنتش، سير عند طبيب ف 24 ساعة"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "L9it 3ndek damm f ras 18/10 w sda3 qwi daba. Hadchi ymkn ykoun 3la 9bal chi moshkil f l3rou9 w khassek tabib. L3in li 3lah f dakhel ymkn tkon 3la 9bal chi moshkil f l3in.",
+  "explanation_darija_arabic": "لقيت عندك دم ف راس 18/10 و صداع قوي دابا. هادشي يمكن يكون على قبل شي مشكل ف العروق و خاصك طبيب. العين اللي علاه ف الداخل يمكن تكون على قبل شي مشكل ف العين.",
+  "explanation_french": "Votre tension est de 18/10 et vous avez un mal de tête très fort maintenant. Cela peut être lié à un problème vasculaire. L'œil qui tire vers l'intérieur peut être un problème oculaire.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "sir l sbitar lqreb lik",
+    "mat3rfch w sir b ambulance"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "سير ل سبيطار لقريب ليك",
+    "ما تعرفش و سير ب أمبولانس"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "High blood pressure with severe headache and eye issue",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

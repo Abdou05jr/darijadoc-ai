@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "L9it l-khatar f l-3alaqat dyal damm dyalk. 18/10 kayn 180/100, hadchi 3adi ila ma kanch sda3 qwi, tghachchoum, wja3 f sadr, awla da3f. Ila kayn chi wa7ed mn hadchi, sir l doktor f 24 sa3a.",
+  "explanation_darija_arabic": "لقيت الخطر ف العلاقات ديال الدم ديالك. 18/10 كاين 180/100، هادشي عادي إلا ما كانش صداع قوي، تغاشوم، وجع ف الصدر، أو ضعف. إلا كان شي واحد من هادشي، سير للطبيب ف 24 ساعة.",
+  "explanation_french": "Votre tension artérielle est élevée à 180/100. C'est préoccupant si vous avez un mal de tête sévère, vision floue, douleur thoracique ou faiblesse. Consultez un médecin dans les 24 heures si c'est le cas.",
+  "next_steps": [
+    "Jlis f kursi w 3awd l-9iyas ba3d 5 dqa9",
+    "Ila kan sda3 qwi awla chi 7aja mn dakchi, sir l doktor f 24 sa3a",
+    "Ila ma kanch chi 7aja mn dakchi, 3awd l-9iyas ba3d 5 dqa9"
+  ],
+  "next_steps_arabic": [
+    "جلس ف كرسي و عاود القياس بعد 5 دقايق",
+    "إلا كان صداع قوي أو شي حاجة من داكشي، سير للطبيب ف 24 ساعة",
+    "إلا ما كانش شي حاجة من داكشي، عاود القياس بعد 5 دقايق"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

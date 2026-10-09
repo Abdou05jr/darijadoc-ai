@@ -1,0 +1,86 @@
+{
+  "input_language": "darija",
+  "mode": "explain",
+  "explanation_darija": "Hadchi ordonnance fih talat dwiyat: Doliprane, Toplexil, w Smecta. Doliprane 1000 mg, khdi 9ars wa7ed 3 marrat f nhar 3la 9add wja3. Toplexil 125 ml, khdi mal3a9a kbira 3 marrat f nhar l modda 7 yyam. Smecta, khdi 3 kaysat f nhar, wa7ed b3d kol wjba l modda 7 yyam.",
+  "explanation_darija_arabic": "هادشي أوردونانس فيه ثلاثة دويات: دوليبران، توبليكسيل، و سمكتا. دوليبران 1000 ملغ، خدي قرص واحد 3 مرات ف النهار على قد وجع. توبليكسيل 125 مل، خدي ملعقة كبيرة 3 مرات ف النهار لمدة 7 أيام. سمكتا، خدي 3 كيسات ف النهار، واحد بعد كل وجبة لمدة 7 أيام.",
+  "explanation_french": "Cette ordonnance contient trois médicaments: Doliprane, Toplexil, et Smecta. Doliprane 1000 mg, prenez un comprimé 3 fois par jour selon la douleur. Toplexil 125 ml, prenez une grande cuillère 3 fois par jour pendant 7 jours. Smecta, prenez 3 sachets par jour, un après chaque repas pendant 7 jours.",
+  "next_steps": [
+    "Sir l pharmacie bash tjib l dwa",
+    "Taba3 l ta3limat li f ordonnance",
+    "Ila ma hssitch b chi ta7sin, sir 3nd doktor"
+  ],
+  "next_steps_arabic": [
+    "سير ل الفارماسي باش تجيب الدوا",
+    "تابع التعليمات اللي ف الأوردونانس",
+    "إلا ما حسيتش بشي تحسن، سير عند دكتور"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": true,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": {
+    "unreadable": false,
+    "extraction_confidence": "high",
+    "doctor_name": "أمينة بنعلي",
+    "date": "12/03/2026",
+    "medications": [
+      {
+        "name": "Doliprane",
+        "name_arabic": "دوليبران",
+        "dosage": "1000 mg",
+        "form": "comprimé",
+        "frequency": "3 marrat f nhar",
+        "timing": [
+          "ila htajti"
+        ],
+        "duration": "3 yyam",
+        "purpose_darija": "3la 9add wja3",
+        "purpose_darija_arabic": "على قد وجع",
+        "purpose_french": "pour la douleur",
+        "with_food": "unknown",
+        "warnings": [],
+        "confidence": "high"
+      },
+      {
+        "name": "Toplexil",
+        "name_arabic": "توبليكسيل",
+        "dosage": "125 ml",
+        "form": "sirop",
+        "frequency": "3 marrat f nhar",
+        "timing": [
+          "f sba7",
+          "f l3chiya",
+          "f lil"
+        ],
+        "duration": "7 yyam",
+        "purpose_darija": "sda3",
+        "purpose_darija_arabic": "صداع",
+        "purpose_french": "pour la toux",
+        "with_food": "unknown",
+        "warnings": [],
+        "confidence": "high"
+      },
+      {
+        "name": "Smecta",
+        "name_arabic": "سمكتا",
+        "dosage": "3 kaysat",
+        "form": "sachet",
+        "frequency": "3 marrat f nhar",
+        "timing": [
+          "men ba3d makla"
+        ],
+        "duration": "7 yyam",
+        "purpose_darija": "l ma3ida",
+        "purpose_darija_arabic": "المعدة",
+        "purpose_french": "pour l'estomac",
+        "with_food": "after",
+        "warnings": [],
+        "confidence": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "input_language": "arabic",
+  "mode": "chat",
+  "explanation_darija": "Kan7ss b lqlaq bzaf mn hadchi li glti. Rah kayn nass li y9dro y3awnouk. L3afak, tkllm m3a chi wa7ed li t9dr tti9 fih daba.",
+  "explanation_darija_arabic": "كنحس بالقلق بزاف من هادشي اللي قلتي. راه كاين ناس اللي يقدرو يعاونوك. العافاك، تكلم مع شي واحد اللي تقدر تتيق فيه دابا.",
+  "explanation_french": "Je suis vraiment inquiet par ce que vous avez dit. Il y a des gens qui peuvent vous aider. S'il vous plaît, parlez à quelqu'un en qui vous avez confiance maintenant.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "tkllm m3a chi wa7ed li t9dr tti9 fih daba",
+    "matb9ach b wa7dk, khalli chi wa7ed m3ak"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "تكلم مع شي واحد اللي تقدر تتيق فيه دابا",
+    "ماتبقاش بوحدك، خلي شي واحد معاك"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Suicidal language detected",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "L7it kansekt ymkn ykoun 3ndek doror f l3dam awla l3dala. Ila kan wja3 qwi, sir l doktor.",
+  "explanation_darija_arabic": "الحيط كانسكت يمكن يكون عندك ضرر ف العظام أو العضلة. إلا كان وجع قوي، سير للطبيب.",
+  "explanation_french": "Le choc contre le mur peut causer des douleurs aux os ou aux muscles. Si la douleur est forte, consultez un médecin.",
+  "next_steps": [
+    "Ra7a w 7awel ma t7errkch bzaf",
+    "Ila kan wja3 qwi, sir l doktor",
+    "Ila kan farcha awla skhana, 3ayt 3la 150"
+  ],
+  "next_steps_arabic": [
+    "راحة وحاول ما تحركش بزاف",
+    "إلا كان وجع قوي، سير للطبيب",
+    "إلا كان فرشخ أو سخانة، عيط على 150"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Lwja3 f kerm m3a damm f 7ol ymkn ykoun 3la 9bal chi moshkil f lme3ida wla lmasarik. Khssak t3ayen 3nd tabib bach ychouf l7ala.",
+  "explanation_darija_arabic": "الوجع ف كرم مع دم ف حول يمكن يكون على قبل شي مشكل ف المعدة ولا المساريك. خصك تعاين عند طبيب باش يشوف الحالة.",
+  "explanation_french": "La douleur abdominale avec du sang dans les selles peut indiquer un problème gastro-intestinal. Vous devriez consulter un médecin pour un examen.",
+  "next_steps": [
+    "Sir 3nd tabib f 9rib waqt",
+    "Mataklch makla li tdir l7ar",
+    "Shrob lma bzzaf"
+  ],
+  "next_steps_arabic": [
+    "سير عند طبيب ف قريب وقت",
+    "ماتاكلش ماكلة لي تدير الحار",
+    "شرب الما بزاف"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

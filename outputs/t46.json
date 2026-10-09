@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kaybano 3lik 3alamat dyal infection. L7mar w skhana kayn 3ndhom 3la9a m3a chi infection.",
+  "explanation_darija_arabic": "كيبانو عليك علامات ديال إنفكسيون. الحمار و السخانة كاين عندهم علاقة مع شي إنفكسيون.",
+  "explanation_french": "Vous montrez des signes d'infection. La rougeur et la fièvre peuvent être liées à une infection.",
+  "next_steps": [
+    "Sir 3nd tabib bach ychouf l7ala",
+    "Khessk trta7 w tchrb lma bzzaf",
+    "Ila ma7ssitch b chi t7ssan, 3awd sir l tabib"
+  ],
+  "next_steps_arabic": [
+    "سير عند طبيب باش يشوف الحالة",
+    "خصك ترتاح وتشرب الما بزاف",
+    "إلا ماحسيتيش بشي تحسن، عاود سير للطبيب"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

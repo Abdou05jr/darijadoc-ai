@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayban 3ndk wja3 f 9li w 7as b 3ini w kaytgerd. Hadchi ymkn ykoun 3la 9bal l3in awla l9li. Ila kan l'wja3 qwi bzaaf w ma kayt7snch, khssak tji l'doktor bach ychofk.",
+  "explanation_darija_arabic": "كيبن عندك وجع ف القلي وحاس بعيني و كايتقرد. هادشي يمكن يكون على قبل العين أو القلي. إلا كان الوجع قوي بزاف وما كايتحسنش، خصك تجي للدكتور باش يشوفك.",
+  "explanation_french": "Il semble que vous ayez une douleur à l'œil et que vous ressentiez une gêne. Cela pourrait être lié à l'œil ou à la tête. Si la douleur est très forte et ne s'améliore pas, vous devriez consulter un médecin.",
+  "next_steps": [
+    "Ra7a w 9il 3la 3ini",
+    "Ila ma t7ssntch, sir 3nd doktor",
+    "Matsta3jilch, bas ma t7ssnch"
+  ],
+  "next_steps_arabic": [
+    "راحة وقل على عيني",
+    "إلا ما تحسنتش، سير عند دكتور",
+    "ما تستعجلش، بس ما تحسنش"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

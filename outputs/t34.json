@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Ila 3inek 7mra w katzid, hadchi ymkn ykoun 3la 9bal l7assasiya, lti7ab, aw chi mouchkil f 3inek. Khessak tchouf doktor bach y3rf achno kayn.",
+  "explanation_darija_arabic": "إلا عينك حمرا وكاتزيد، هادشي يمكن يكون على قبل الحساسية، الالتهاب، أو شي مشكل ف عينك. خصك تشوف دكتور باش يعرف آش كاين.",
+  "explanation_french": "Si votre œil est rouge et cela s'aggrave, cela peut être dû à une allergie, une infection ou un autre problème. Vous devez consulter un médecin pour savoir ce qui se passe.",
+  "next_steps": [
+    "Sir 3nd doktor l3youn bach ychouf 3inek",
+    "Mat3assalch, khessak t3rf sbab l7mra",
+    "Ila kan l7mar m3ah wja3 qwi, 3ayt 3la 150 daba"
+  ],
+  "next_steps_arabic": [
+    "سير عند دكتور العيون باش يشوف عينك",
+    "ماتعسالش، خصك تعرف سبب الحمرا",
+    "إلا كان الحمرا معاه وجع قوي، عيط على 150 دابا"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

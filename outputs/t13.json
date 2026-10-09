@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Lah ihafdek, ila 3andek 7amla w kanzef damm, hadchi khatar. Khassak t3ayt 3la 150 daba bach tjib l3awn.",
+  "explanation_darija_arabic": "الله يحفظك، إلى عندك حملا وكنزف دم، هادشي خطر. خاصك تعيط على 150 دابا باش تجيب العون.",
+  "explanation_french": "Si vous êtes enceinte et que vous saignez, c'est une urgence. Appelez le 150 immédiatement pour obtenir de l'aide.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "sir l sbitar bach tjib l3awn",
+    "khalli 3ndk chi wa7ed m3ak"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "سير ل سبيطار باش تجيب العون",
+    "خلي عندك شي واحد معاك"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Pregnancy with bleeding is an emergency",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

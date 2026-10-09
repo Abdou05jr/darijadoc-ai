@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "ila ma kanchoufch f 3in dyalk, hadchi ymkn ykoun 3la 9bal chi moshkil f 3in. khasso tabib ychoufha.",
+  "explanation_darija_arabic": "إلا ما كنشوفش ف عين ديالك، هادشي يمكن يكون على قبل شي مشكل ف عين. خاصو طبيب يشوفها.",
+  "explanation_french": "Si vous ne voyez pas avec votre œil droit, cela peut être un problème à vérifier par un médecin.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "sir l sbitar lqrib bach ychouf tabib",
+    "mat3rfch w sir b ambulance"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "سير ل سبيطار لقريب باش يشوف طبيب",
+    "ما تعرفش و سير ب أمبولانس"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Sudden vision loss in one eye",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

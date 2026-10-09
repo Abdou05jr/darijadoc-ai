@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "7mar w 7it kkaneshmen f lkhfaf ymkn ykoun 3la 9bal chi 7aja f l3in. Yla kan l7mar mzid wla kayn wja3, sir 3nd tabib.",
+  "explanation_darija_arabic": "حمار و حيت ككانشمن ف الخفاف يمكن يكون على قبل شي حاجة ف العين. يلا كان الحمار مزيد ولا كاين وجع، سير عند طبيب.",
+  "explanation_french": "Les yeux rouges et la sensation de brûlure peuvent être dus à une irritation. Si cela s'aggrave ou si vous ressentez de la douleur, consultez un médecin.",
+  "next_steps": [
+    "7awl terta7 w t7mi 3inik mn lghbar",
+    "ila ma t7ssantch, sir 3nd tabib",
+    "matst3mlch ay 7aja f 3inik bla mra tabib"
+  ],
+  "next_steps_arabic": [
+    "حاول ترتاح و تحمي عينك من الغبار",
+    "إلا ما تحسنتش، سير عند طبيب",
+    "ما تستعملش أي حاجة ف عينك بلا مرا طبيب"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

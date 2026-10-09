@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "L'wja3 f kerch ymkn ykoun 3la 9bal bzaf d l'7wayj, mn hadchi lmakla, l3ya, ola chi 7aja khra. L'kanfch ymkn ykoun 3la 9bal lmakla ola lhawiya. Ila kan l'wja3 qwi bzzaf ola kaydoum, khassak tji l'doktor.",
+  "explanation_darija_arabic": "الوجع ف الكرش يمكن يكون على قبل بزاف د الحوايج، من هادشي الماكلة، العيا، أو لا شي حاجة خرى. الكنفش يمكن يكون على قبل الماكلة أو لا الهوية. إلا كان الوجع قوي بزاف أو لا كيدوم، خاصك تجي للدكتور.",
+  "explanation_french": "La douleur au ventre peut être due à plusieurs choses, comme la nourriture, la fatigue, ou autre chose. Les ballonnements peuvent être liés à la nourriture ou à l'air. Si la douleur est très forte ou persiste, il faut consulter un médecin.",
+  "next_steps": [
+    "Ra7a w shrb lma bzzaf",
+    "Ila ma t7ssantich f 24 sa3a, sir 3nd doktor",
+    "Tjanb lmakla lqawiya w lma7rra"
+  ],
+  "next_steps_arabic": [
+    "راحة و شرب الماء بزاف",
+    "إلا ما تحسنتيش ف 24 ساعة، سير عند دكتور",
+    "تجنب الماكلة القاوية و المحررة"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

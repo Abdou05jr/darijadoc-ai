@@ -1,0 +1,28 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "L7al dyalk kayban khatir. Skhana 40°C w wja3 f ras qwi ymkn ykoun 3la 9bal chi 7ala 3ajila.",
+  "explanation_darija_arabic": "الحال ديالك كيبان خطير. سخانة 40°C ووجع ف الراس قوي يمكن يكون على قبل شي حالة عاجلة.",
+  "explanation_french": "Votre état semble grave. Une fièvre de 40°C et un mal de tête intense peuvent indiquer une urgence.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "Sir l sbitar lqrib 3ajilan",
+    "Khalli chi wa7ed m3ak",
+    "Mat3rfch w sir b ambulance"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "سير للسبيطار لقريب عاجلا",
+    "خلي شي واحد معاك",
+    "ما تعرفش وسير بامبيلانس"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "High fever and severe headache",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

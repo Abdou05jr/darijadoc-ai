@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Shtit 7al 3lik kayn 7mar 3la wjhek. Hadchi ymkn ykoun 3la 9bal lergie awla infection. Ila kan l7mar kbir bzaf awla kayzid, sir 3nd tabib.",
+  "explanation_darija_arabic": "شتيت حال عليك كاين حمار على وجهك. هادشي يمكن يكون على قبل الحساسية أو لا إنفكسيون. إلا كان الحمار كبير بزاف أو لا كايزيد، سير عند طبيب.",
+  "explanation_french": "Vous avez une éruption rouge sur le visage. Cela peut être dû à une allergie ou une infection. Si la rougeur est grande ou s'aggrave, consultez un médecin.",
+  "next_steps": [
+    "Ra7a w mat9arbi l7aja lli t9adar tdir lergie",
+    "Ila ma7ssitch b chi ta7ssan, sir 3nd tabib",
+    "Ila kan l7mar kayzid, sir l sbitar"
+  ],
+  "next_steps_arabic": [
+    "راحة وما تقاربي الحاجة اللي تقدر تدير الحساسية",
+    "إلا ماحسيتيش بشي تحسن، سير عند طبيب",
+    "إلا كان الحمار كايزيد، سير ل سبيطار"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "3ayn 7mra kat3ni bla ma kanchoufha, ymkn tkoun mn 3dd l7waj, b7al l7assasiya, l3yya, awla infection. Ila kant 3andak 7ka, damm men meno, awla ma kanchoufch mzyan, khassak tji l doktor.",
+  "explanation_darija_arabic": "عين حمرا كتعني بلا ما كنشوفها، يمكن تكون من عدة الحواج، بحال الحساسية، العيا، أو لا إنفكسيون. إلا كانت عندك حكة، دم من منو، أو لا ما كنشوفش مزيان، خاصك تجي للطبيب.",
+  "explanation_french": "Un œil rouge peut être dû à plusieurs choses, comme une allergie, la fatigue ou une infection. Si vous avez des démangeaisons, du sang ou une vision floue, consultez un médecin.",
+  "next_steps": [
+    "7awel trta7 w mat7kch 3ayn",
+    "ila ma t7ssantch f 24 sa3a, sir 3nd doktor",
+    "ila bda damm men 3ayn awla ma kanchoufch, 3ayt 3la 150"
+  ],
+  "next_steps_arabic": [
+    "حاول ترتاح وما تحكش عين",
+    "إلا ما تحسنتش ف 24 ساعة، سير عند دكتور",
+    "إلا بدا دم من عين أو لا ما كنشوفش، عيط على 150"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

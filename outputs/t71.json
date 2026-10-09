@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayban 3ndk moshkil f 3in dyalk. Ila 3inek ma tbanch mzyan w ka3dara, hadchi ymkn ykoun 3la 9bal 7ala tbiya. Ila ma t7derch tchouf, hadchi darori.",
+  "explanation_darija_arabic": "كيبان عندك مشكل ف عين ديالك. إلا عينك ما تبانش مزيان و كاعذرا، هادشي يمكن يكون على قبل حالة طبية. إلا ما تحضرش تشوف، هادشي ضروري.",
+  "explanation_french": "Il semble que vous ayez un problème avec votre œil. Si votre œil est douloureux et que vous ne pouvez pas bien voir, cela pourrait être sérieux.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "sir l sbitar 9rib lik",
+    "mat3rfch w sir b ambulance"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "سير ل سبيطار قريب ليك",
+    "ما تعرفش و سير ب أمبيلانس"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Sudden vision loss and eye pain",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

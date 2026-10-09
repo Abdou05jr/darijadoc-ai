@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "L9ad f damm dyalk 14/9 kayn f lma3qoul, walakin ila kayn wja3 f 9alb, khassak t3ayt 3la 150 daba.",
+  "explanation_darija_arabic": "القد في الدم ديالك 14/9 كاين ف المعقول، ولكن إلا كاين وجع ف القلب، خاصك تعيط على 150 دابا.",
+  "explanation_french": "Votre tension artérielle de 14/9 est normale, mais si vous avez une douleur au cœur, appelez le 150 immédiatement.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "Matb9ach t7arak bzaf",
+    "Sir l sbitar 9rib"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "ماتبقاش تحرك بزاف",
+    "سير ل السبيطار قريب"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Chest pain with normal blood pressure",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

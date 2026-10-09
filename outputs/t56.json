@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "7ri9a chwiya kat3ni 7ri9a sghira. Ila kant 7ri9a bzzaf, khask t3ayt 3la 150. Khof mn 3am ymkn ykoun 3la 9bal chi haja f l9alb awla l3asab.",
+  "explanation_darija_arabic": "حريقة شوية كتعني حريقة صغيرة. إلا كانت حريقة بزاف، خاصك تعيط على 150. خوف من عام يمكن يكون على قبل شي حاجة ف القلب أو الأعصاب.",
+  "explanation_french": "Une petite brûlure signifie une brûlure légère. Si c'est grave, appelez le 150. La peur peut être liée au cœur ou aux nerfs.",
+  "next_steps": [
+    "Ila kant 7ri9a kbira, 3ayt 3la 150 daba",
+    "Ila kant 7ri9a sghira, ghslha b lma bared",
+    "Ila khof mn 3am kayt3awed, sir 3nd tabib"
+  ],
+  "next_steps_arabic": [
+    "إلا كانت حريقة كبيرة، عيط على 150 دابا",
+    "إلا كانت حريقة صغيرة، غسلها بالماء بارد",
+    "إلا خوف من عام كيتعاود، سير عند طبيب"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

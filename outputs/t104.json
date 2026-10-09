@@ -1,0 +1,28 @@
+{
+  "input_language": "french",
+  "mode": "chat",
+  "explanation_darija": "Lma3lomat li 3tit katban 3la chi 7ala 3ajla. Lwja3 f sadr w lmochkil f tnfass momkin ykoun chi haja khatira.",
+  "explanation_darija_arabic": "المعلومات اللي عطيت كاتبان على شي حالة عاجلة. الوجع ف الصدر والمشكل ف التنفس ممكن يكون شي حاجة خطيرة.",
+  "explanation_french": "Les symptômes que vous décrivez peuvent indiquer une urgence. La douleur thoracique et la difficulté à respirer peuvent être graves.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "Khalli chi wa7ed m3ak 7ta yji l mousa3ada",
+    "Mat7arakch bzzaf w 9der tnfas b slow",
+    "Sir l sbitar 9rib lik"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "خلي شي واحد معاك حتى يجي المساعدة",
+    "متحركش بزاف وقدر تنفس ببطء",
+    "سير للمستشفى قريب لك"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Chest pain and difficulty breathing",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "french",
+  "prescription": null
+}

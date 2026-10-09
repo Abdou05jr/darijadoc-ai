@@ -1,0 +1,24 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Sda3 3am mn ghedda ymkn ykoun 3la 9bal stress, ta3ab, awla 7aja akhra. Ila kan sda3 qwi bzzaf, sir 3nd tabib.",
+  "explanation_darija_arabic": "صداع عام من غدا يمكن يكون على قبل السترس، تعب، أو لا حاجة أخرى. إلا كان الصداع قوي بزاف، سير عند طبيب.",
+  "explanation_french": "Un mal de tête depuis hier peut être dû au stress, à la fatigue ou autre chose. Si le mal de tête est très fort, consultez un médecin.",
+  "next_steps": [
+    "Rta7 chwya w shrb lma",
+    "Ila ma t7ssantich, sir 3nd tabib"
+  ],
+  "next_steps_arabic": [
+    "رتاح شوية و شرب الما",
+    "إلا ما تحسنتيش، سير عند طبيب"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

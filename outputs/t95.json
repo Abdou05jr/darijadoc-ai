@@ -1,0 +1,24 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayn mashi mochkil ila lma kan m3a l3a2, bas ma tkounch 3ndek chi 7asasiya. Ila 7siti b chi 7aja moshkila, sir 3nd tabib.",
+  "explanation_darija_arabic": "كاين ماشي مشكل إلا الماء كان مع العاق، باش ما تكونش عندك شي حساسية. إلا حسيت بشي حاجة مشكلة، سير عند طبيب.",
+  "explanation_french": "Il n'y a pas de problème si l'eau est avec le médicament, sauf si vous avez une allergie. Si vous ressentez un problème, consultez un médecin.",
+  "next_steps": [
+    "Ila 7siti b chi 7aja moshkila, sir 3nd tabib",
+    "Matakhl3ch, lma ma kaydirch mochkil m3a l3a2"
+  ],
+  "next_steps_arabic": [
+    "إلا حسيت بشي حاجة مشكلة، سير عند طبيب",
+    "ما تخلعش، الماء ما كيديرش مشكل مع العاق"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

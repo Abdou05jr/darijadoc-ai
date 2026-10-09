@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kaybann liya 3ndek 7mar f yedek w kayhrr. Hadchi ymkn ykoun 3la 9bal infection wla allergie.",
+  "explanation_darija_arabic": "كيبن ليا عندك حمار في يدك و كايهر. هادشي يمكن يكون على قبل إنفكسيون ولا أليرجي.",
+  "explanation_french": "Il semble que vous ayez une rougeur et des démangeaisons à la main. Cela peut être dû à une infection ou une allergie.",
+  "next_steps": [
+    "Sir l tabib ila ma t7ssntich",
+    "7awel ma t7kkch bzaf",
+    "N9i yedek b savon w ma"
+  ],
+  "next_steps_arabic": [
+    "سير للطبيب إلا ما تحسنتيش",
+    "حاول ما تحكش بزاف",
+    "نقي يدك بصابون و ماء"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

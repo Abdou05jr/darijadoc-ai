@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "L9e9a hiya l7rara f l3dam, w l9ehl kay3ni l7rara f l3dam li kayn fiha l9e9a. Ila kayn wja3 qwi w ma kayt7ssnch, khssak t3awd t3ayen 3nd tabib.",
+  "explanation_darija_arabic": "الققة هي الحرارة في العظام، والقحل يعني الحرارة في العظام اللي فيها الققة. إلا كان وجع قوي وما كايتحسنش، خصك تعاود تعاين عند طبيب.",
+  "explanation_french": "La '9e9a' est une douleur dans les os, et 'l9ehl' signifie une douleur dans les os où il y a cette douleur. Si la douleur est forte et ne s'améliore pas, vous devez consulter un médecin.",
+  "next_steps": [
+    "Ra7 fi rasek w 7awel ma t7arakch bzzaf",
+    "Chrob lma bzzaf bach tb9a mratab",
+    "Ila ma t7ssntch f 24 sa3a, sir 3nd tabib"
+  ],
+  "next_steps_arabic": [
+    "راح في راسك وحاول ما تحركش بزاف",
+    "شرب الماء بزاف باش تبقى مرطب",
+    "إلا ما تحسنتش ف 24 ساعة، سير عند طبيب"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

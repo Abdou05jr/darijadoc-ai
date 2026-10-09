@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "L'bent 3andha skhana 39.5, hadchi kayn fiha l7rar 3ali. Ila kant katbki bzzaf, hadchi ymkn ykoun 3la 9bal chi 7aja khatir. L7rar 3ali f l'atfal khass ytkhdm b jdya.",
+  "explanation_darija_arabic": "البنت عندها سخانة 39.5، هادشي كاين فيها الحرار عالي. إلا كانت كاتبكي بزاف، هادشي يمكن يكون على قبل شي حاجة خطير. الحرار عالي ف الأطفال خاص يتخدم ب جدية.",
+  "explanation_french": "La petite a une fièvre de 39.5, ce qui est élevé. Si elle pleure beaucoup, cela peut être sérieux. Une forte fièvre chez les enfants doit être prise au sérieux.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "sir l sbitar lqreb",
+    "khalli 3ndk chi wa7ed m3ak bach y3awnk"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "سير ل سبيطار لقرب",
+    "خلي عندك شي واحد معاك باش يعاونك"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Child with high fever and excessive crying",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

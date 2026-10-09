@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "ila chrebt dawa bzaf b ghalat, khessk t3ayt 3la 150 daba bach y3awnouk. Hadchi ymkn ykoun khatir.",
+  "explanation_darija_arabic": "إلا شربت دوا بزاف ب غالط، خاصك تعيط على 150 دابا باش يعاونوك. هادشي يمكن يكون خطير.",
+  "explanation_french": "Si vous avez pris trop de médicament par erreur, appelez immédiatement le 150 pour obtenir de l'aide. Cela peut être dangereux.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "mat3rfch w sir b ambulance",
+    "khalli 3ndk chi wa7ed m3ak"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "ما تعرفش و سير ب آمبولانس",
+    "خلي عندك شي واحد معاك"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Possible drug overdose",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "L'wja3 f sder m3a skhana ymkn ykoun chi 7ala t3taz l 3inaya dyal tabib. Khassak t3ayt 3la 150 daba bach t9der t7sal 3la l musa3ada l 3ajila.",
+  "explanation_darija_arabic": "الوجع ف الصدر مع السخانة يمكن يكون شي حالة تحتاج العناية ديال طبيب. خاصك تعيط على 150 دابا باش تقدر تحصل على المساعدة العاجلة.",
+  "explanation_french": "La douleur à la poitrine avec de la fièvre peut être une situation nécessitant des soins médicaux. Vous devez appeler le 150 immédiatement pour obtenir de l'aide urgente.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "Sir l sbitar 9rib lik",
+    "Matb9ach tsta3ml chi 7aja 7ta tji l musa3ada"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "سير للمستشفى قريب ليك",
+    "ما تبقاش تستعمل شي حاجة حتى تجي المساعدة"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Chest pain and fever",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

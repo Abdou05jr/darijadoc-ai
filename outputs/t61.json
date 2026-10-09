@@ -1,0 +1,24 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "ila weldk khadam men dar w kaykhod dwa mn dakhel, khassk t3rf wach kayna chi ta3limat mn 3nd doktor. ila kan chi moshkil f l3amal dyal weldk, khassk t3awd t3ayt l doktor bash t3rf wach khass tghyar chi haja.",
+  "explanation_darija_arabic": "إلا ولدك خدام من دار وكياخد دوا من الداخل، خاصك تعرف واش كاينة شي تعليمات من عند دكتور. إلا كان شي مشكل ف العمل ديال ولدك، خاصك تعاود تعيط ل دكتور باش تعرف واش خاص تغير شي حاجة.",
+  "explanation_french": "Si votre fils travaille de chez lui et prend des médicaments, assurez-vous de suivre les instructions du médecin. Si le travail pose problème, contactez le médecin pour savoir s'il faut ajuster quelque chose.",
+  "next_steps": [
+    "t3ayt l doktor bash t3rf chi ta3limat",
+    "t3ayt l doktor ila kan chi moshkil f l3amal"
+  ],
+  "next_steps_arabic": [
+    "تعيط ل دكتور باش تعرف شي تعليمات",
+    "تعيط ل دكتور إلا كان شي مشكل ف العمل"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

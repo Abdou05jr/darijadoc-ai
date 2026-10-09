@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kaybano 3ndk wja3 f 9li li kaytl3a l 3in. Hadchi ymkn ykoun 3la 9bal l3in awla 9li. Ila kan l'wja3 qwi bzzaf awla ma kayt7ssnch, sir 3nd tabib bash ychouf l'hal.",
+  "explanation_darija_arabic": "كيبانو عندك وجع في القلي اللي كايتلعا للعين. هادشي يمكن يكون على قبل العين أو القلي. إلا كان الوجع قوي بزاف أو ما كايتحسنش، سير عند طبيب باش يشوف الحال.",
+  "explanation_french": "Vous ressentez une douleur dans la gorge qui monte vers l'œil. Cela pourrait être lié à l'œil ou à la gorge. Si la douleur est très forte ou ne s'améliore pas, consultez un médecin pour évaluer la situation.",
+  "next_steps": [
+    "Ra7 l wja3 3la 9bal l3in awla 9li",
+    "Ila ma t7ssnch, sir 3nd tabib",
+    "Khalli 3ndk chi wa7ed m3ak ila kan l'wja3 qwi"
+  ],
+  "next_steps_arabic": [
+    "راح الوجع على قبل العين أو القلي",
+    "إلا ما تحسنش، سير عند طبيب",
+    "خلي عندك شي واحد معاك إلا كان الوجع قوي"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

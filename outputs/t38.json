@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "L'3w9 kayn fiha wja3, ymkn ykoun 3la 9bal chi 7aja f l3dam aw l3adalat. Ila kant l'wja3 qwi bzzaf, sir 3nd tabib bach ychofek.",
+  "explanation_darija_arabic": "العوق كاين فيها وجع، يمكن يكون على قبل شي حاجة ف العظام أو العضلات. إلا كان الوجع قوي بزاف، سير عند طبيب باش يشوفك.",
+  "explanation_french": "La douleur au coude peut être due à un problème osseux ou musculaire. Si la douleur est intense, consultez un médecin.",
+  "next_steps": [
+    "Rta7 chwya w mat7arrakch bzzaf",
+    "Ila ma t7ssantch, sir 3nd tabib",
+    "7awel t3mel kompres b lma sakhon"
+  ],
+  "next_steps_arabic": [
+    "رتاح شوية وما تحركش بزاف",
+    "إلا ما تحسنتش، سير عند طبيب",
+    "حاول تعمل كمبريس بالماء الساخن"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

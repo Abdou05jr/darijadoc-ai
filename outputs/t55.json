@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Katgoul 3andek 7ri9a w kouhba. Ila kant 7ri9a kbira ola kouhba qwiya, sir l sbitar daba. Ila kant 7ri9a sghira, ghslha b lma w saboun w 7awel tbqa b3id 3la lfrit 7ta tbra.",
+  "explanation_darija_arabic": "كاتقول عندك حريقة وكوحبة. إلا كانت حريقة كبيرة أو كوحبة قوية، سير ل سبيطار دابا. إلا كانت حريقة صغيرة، غسلها بالماء والصابون وحاول تبقى بعيد على الفريت حتى تبرا.",
+  "explanation_french": "Vous dites que vous avez une brûlure et une toux. Si la brûlure est grande ou la toux est forte, allez à l'hôpital maintenant. Si c'est une petite brûlure, lavez-la avec de l'eau et du savon et évitez les frites jusqu'à ce que ça guérisse.",
+  "next_steps": [
+    "Ghsl 7ri9a b lma w saboun",
+    "7awel tbqa b3id 3la lfrit",
+    "Ila kant kouhba qwiya, sir l sbitar"
+  ],
+  "next_steps_arabic": [
+    "غسل الحريقة بالماء والصابون",
+    "حاول تبقى بعيد على الفريت",
+    "إلا كانت كوحبة قوية، سير ل سبيطار"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

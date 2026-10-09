@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Sda3 f ras w skhana kaynin 3adatan m3a l gripp awla l bard. Khessak terta7, tcharab l-ma bzzaf, w ila ma t7assanti chi haja, sir 3and tabib.",
+  "explanation_darija_arabic": "صداع ف الراس و سخانة كاينين عادة مع الجريب أو البرد. خصك ترتاح، تشرب الماء بزاف، وإلا ما تحسنتي شي حاجة، سير عند طبيب.",
+  "explanation_french": "Le mal de tête et la fièvre sont souvent associés à la grippe ou au rhume. Reposez-vous, buvez beaucoup d'eau, et si ça ne s'améliore pas, consultez un médecin.",
+  "next_steps": [
+    "Terta7 mzyan w tcharab l-ma",
+    "Ila ma t7assanti chi haja, sir 3and tabib",
+    "Koun sabour w t7alla b rassk"
+  ],
+  "next_steps_arabic": [
+    "ترتاح مزيان وتشرب الماء",
+    "إلا ما تحسنتي شي حاجة، سير عند طبيب",
+    "كون صبور وتحلى برأسك"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

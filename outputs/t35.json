@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayn ihtimal kayn chi 7assasiya wla t7assas mn chi 7aja. L7mar 3la wjhek ymkn ykoun 3la 9bal chi t7assas wla chi moshkil f l'jeld.",
+  "explanation_darija_arabic": "كاين احتمال كاين شي حساسية ولا تحساس من شي حاجة. الحمار على وجهك يمكن يكون على قبل شي تحساس ولا شي مشكل ف الجلد.",
+  "explanation_french": "Il est possible que ce soit une allergie ou une réaction à quelque chose. La rougeur sur votre visage pourrait être due à une allergie ou un problème de peau.",
+  "next_steps": [
+    "7awl tghsl wjhek b ma sghi w saboun latif",
+    "ila ma t7ssantich, sir 3nd tabib",
+    "ila kan l7mar kbir w kayzid, 3ayt 3la 150"
+  ],
+  "next_steps_arabic": [
+    "حاول تغسل وجهك بماء صغي وصابون لطيف",
+    "إلا ما تحسنتيش، سير عند طبيب",
+    "إلا كان الحمار كبير وكايزيد، عيط على 150"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

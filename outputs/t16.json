@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "L9it 3andek damm f ras 19/12, sda3 qwi, w ma katshoufch mzyan. Hadchi ymkn ykoun khatar.",
+  "explanation_darija_arabic": "لقيت عندك دم ف راس 19/12، صداع قوي، وما كتشوفش مزيان. هادشي يمكن يكون خطر.",
+  "explanation_french": "Votre tension est de 19/12, vous avez un fort mal de tête et des problèmes de vision. Cela peut être grave.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "sir l sbitar b sr3a",
+    "khalli chi wa7ed m3ak"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "سير ل السبيطار بسرعة",
+    "خلي شي واحد معاك"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "High blood pressure with severe headache and vision issues",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

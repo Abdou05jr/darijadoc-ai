@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Ila 3indak 7mar f 3in w kaydir bzaf, ymkn ykoun 3la 9bal infection aw irritation. Khessak tji l tabib bach ychouf 3in dyalk.",
+  "explanation_darija_arabic": "إلا عندك حمار ف عين وكايدير بزاف، يمكن يكون على قبل إنفكسيون أو إيريتاسيون. خصك تجي لطبيب باش يشوف عين ديالك.",
+  "explanation_french": "Si vous avez une rougeur dans l'œil et que ça fait mal, cela peut être dû à une infection ou une irritation. Vous devez consulter un médecin pour examiner votre œil.",
+  "next_steps": [
+    "Sir 3nd tabib l 3in bach ychouf 3in dyalk",
+    "Mat7awlich t7ak 3in dyalk",
+    "Ila kan l wja3 qwi, sir l sbitar"
+  ],
+  "next_steps_arabic": [
+    "سير عند طبيب العين باش يشوف عين ديالك",
+    "متحاولش تحك عين ديالك",
+    "إلا كان الوجع قوي، سير للسبيطار"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

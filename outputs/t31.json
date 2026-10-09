@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayn l ihtimal ana 3ndek rad l fi3l allergique ola infection f respiratory system. Lk7a7a hiya l k7a7a, w rnini kayn ykoun sda3 f l 9alb. L 7mar ymkn ykoun skhana. Ila kant hadchi kaytwal mn 24 sa3a, sir 3nd tabib.",
+  "explanation_darija_arabic": "كاين الاحتمال أن عندك رد الفعل أليرجيك أو لا إنفكسيون ف الريسبيراتوري سيستيم. الكحة هي الكحة، و الرنيني كاين يكون صداع ف القلب. الحمار يمكن يكون سخانة. إلا كانت هادشي كايتوال من 24 ساعة، سير عند طبيب.",
+  "explanation_french": "Il est possible que vous ayez une réaction allergique ou une infection du système respiratoire. La toux est la toux, et le sifflement peut être un bruit dans le cœur. La rougeur peut être de la fièvre. Si cela dure plus de 24 heures, consultez un médecin.",
+  "next_steps": [
+    "Ra7a w shrab lma bzzaf",
+    "Ila ma t7ssntich, sir 3nd tabib",
+    "Ila zadt l 7ala, sir l sbitar"
+  ],
+  "next_steps_arabic": [
+    "راحة و شرب الماء بزاف",
+    "إلا ما تحسنتيش، سير عند طبيب",
+    "إلا زادت الحالة، سير ل السبيطار"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

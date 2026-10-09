@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayban liya 3ndek skhana w 3ini ka3dra. Hadchi ymkn ykoun 3la 9bal infection ola skhana. Ila l7al ma7ssanch b7al ma khass ykun, khassak tji l doktor.",
+  "explanation_darija_arabic": "كيبن ليا عندك سخانة و عيني كاعرة. هادشي يمكن يكون على قبل إنفكسيون أو سخانة. إلا الحال ماحسش بحال ما خاص يكون، خاصك تجي للطبيب.",
+  "explanation_french": "Il semble que vous ayez de la fièvre et que votre œil soit irrité. Cela pourrait être dû à une infection ou à la fièvre. Si cela ne s'améliore pas, vous devriez consulter un médecin.",
+  "next_steps": [
+    "Rta7 w shrab lma bzzaf",
+    "Ila l7al ma7ssanch b7al ma khass ykun, sir 3nd doktor",
+    "Ila 3ini ka3dra bzzaf, ghslha b ma dfi"
+  ],
+  "next_steps_arabic": [
+    "رتاح و شرب الماء بزاف",
+    "إلا الحال ماحسش بحال ما خاص يكون، سير عند دكتور",
+    "إلا عيني كاعرة بزاف، غسلها بماء دافي"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

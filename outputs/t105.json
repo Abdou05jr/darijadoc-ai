@@ -1,0 +1,26 @@
+{
+  "input_language": "french",
+  "mode": "chat",
+  "explanation_darija": "3andek skhana w wja3 f l7alq mn tlata dyal liyyam. Hadchi ymkn ykoun 3la 9bal infection.",
+  "explanation_darija_arabic": "عندك سخانة ووجع ف الحلق من ثلاثة ديال ليام. هادشي يمكن يكون على قبل إنفكسيون.",
+  "explanation_french": "Vous avez de la fièvre et un mal de gorge depuis trois jours. Cela pourrait être dû à une infection.",
+  "next_steps": [
+    "Reste hydraté et repose-toi",
+    "Prends des médicaments pour la fièvre si nécessaire",
+    "Si ça continue, consulte un médecin"
+  ],
+  "next_steps_arabic": [
+    "بقى مرطب وارتاح",
+    "خذ أدوية للسخانة إذا كان ضروري",
+    "إذا استمر، شوف طبيب"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "french",
+  "prescription": null
+}

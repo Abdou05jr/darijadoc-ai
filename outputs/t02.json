@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Weldk 3ando skhana 39 w kaytcherj. Hadchi ymkn ykoun 3la 9bal chi infection. Skhana f l'atfal sghrar khassha tkon t7t l'mra9aba.",
+  "explanation_darija_arabic": "ولدك عندو سخانة 39 وكايتشرج. هادشي يمكن يكون على قبل شي إنفكسيون. سخانة ف الأطفال صغار خاصها تكون تحت المراقبة.",
+  "explanation_french": "Votre enfant a de la fièvre à 39°C et vomit. Cela peut être dû à une infection. La fièvre chez les jeunes enfants doit être surveillée.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "7awel tkhalli weldk m3ak w matkhallihch bo7do",
+    "Sir l sbitar 9rib bach ychouf tabib"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "حاول تخلي ولدك معاك وما تخليهش بوحدو",
+    "سير ل السبيطار قريب باش يشوف طبيب"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Child with high fever and vomiting",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

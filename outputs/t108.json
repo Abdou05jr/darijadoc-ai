@@ -1,0 +1,26 @@
+{
+  "input_language": "french",
+  "mode": "chat",
+  "explanation_darija": "ila 7assiti b l3ya f had l ayam, ymkn ykoun 3la 9bal stress, na9s d nawm, awla chi mouchkil s7i7i. ila kan l3ya kaydoum, sir 3nd doktor bach ychouf 3lach.",
+  "explanation_darija_arabic": "إلا حسيتي بالعياء ف هاد الأيام، يمكن يكون على قبل الستريس، نقص النوم، أو لا شي مشكل صحي. إلا كان العياء كيدوم، سير عند دكتور باش يشوف علاش.",
+  "explanation_french": "Si vous vous sentez fatigué ces derniers jours, cela peut être dû au stress, au manque de sommeil ou à un problème de santé. Si la fatigue persiste, consultez un médecin pour en déterminer la cause.",
+  "next_steps": [
+    "Restez hydraté et reposez-vous bien.",
+    "Essayez de dormir suffisamment chaque nuit.",
+    "Si la fatigue continue, consultez un médecin."
+  ],
+  "next_steps_arabic": [
+    "بقى مرطب و ارتاح مزيان.",
+    "حاول تنعس مزيان كل ليلة.",
+    "إلا استمر العياء، شوف طبيب."
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "french",
+  "prescription": null
+}

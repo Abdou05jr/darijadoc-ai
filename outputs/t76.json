@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Damm f ras kayn 3la 9bal l'dagh l3ali. L'dagh 17/11 kayn 3la 9bal l'dagh l3ali bzzaf. Hna khassak t3ayt 3la 150 daba bach t9der tjerrib l'msa3ada.",
+  "explanation_darija_arabic": "دم ف راس كاين على قبل الضغط العالي. الضغط 17/11 كاين على قبل الضغط العالي بزاف. هنا خاصك تعيط على 150 دابا باش تقدر تجرب المساعدة.",
+  "explanation_french": "La pression artérielle 17/11 est très élevée. Vous devez appeler le 150 immédiatement pour obtenir de l'aide.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "Sir l sbitar bach tjerrib l'msa3ada",
+    "Mat3rfch w sir b ambulance"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "سير ل السبيطار باش تجرب المساعدة",
+    "ما تعرفش و سير ب أمبولانس"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Very high blood pressure (17/11)",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

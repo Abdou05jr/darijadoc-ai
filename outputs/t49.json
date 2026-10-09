@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "L skhana dyalk 38.5°C katban m3a wja3 f 9li. Hadchi ymkn ykoun 3la 9bal infection wla chi 7aja akhra. L skhana katban m3a wja3 f 9li, w hadchi ymkn ykoun 3la 9bal infection wla chi 7aja akhra.",
+  "explanation_darija_arabic": "السخانة ديالك 38.5°C كاتبان مع وجع ف القلي. هادشي يمكن يكون على قبل إنفكسيون ولا شي حاجة أخرى. السخانة كاتبان مع وجع ف القلي، وهادشي يمكن يكون على قبل إنفكسيون ولا شي حاجة أخرى.",
+  "explanation_french": "Votre température est de 38.5°C avec une douleur à la gorge. Cela peut être dû à une infection ou autre chose.",
+  "next_steps": [
+    "Ra7a w shrab lma bzzaf",
+    "ila ma t7assantich, sir 3nd tabib",
+    "ila zdat skhana, sir l sbitar"
+  ],
+  "next_steps_arabic": [
+    "راحة و شرب الماء بزاف",
+    "إلا ما تحسنتيش، سير عند طبيب",
+    "إلا زادت السخانة، سير ل السبيطار"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

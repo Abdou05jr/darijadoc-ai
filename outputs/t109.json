@@ -1,0 +1,28 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kat chouf sda3 f ras, w 3inik 7mra w 3ya. Hadchi ymkn ykoun 3la 9bal l3in awla l3yan.",
+  "explanation_darija_arabic": "كاتشوف صداع ف راس، وعينك حمراء وعياء. هادشي يمكن يكون على قبل العين أو العيان.",
+  "explanation_french": "Vous avez un mal de tête, et votre œil est rouge et fatigué. Cela peut être lié à l'œil ou à la fatigue.",
+  "next_steps": [
+    "Rta7 shwiya w 7awel tkhwi 3inik",
+    "Ila ma t7ssantich, sir 3nd tabib l3in",
+    "Shrob lma bzzaf bach t9a3d",
+    "Ila sda3 b9a qwi, sir l sbitar"
+  ],
+  "next_steps_arabic": [
+    "رتاح شوية وحاول تخوي عينك",
+    "إلا ما تحسنتيش، سير عند طبيب العين",
+    "شرب الماء بزاف باش تقعد",
+    "إلا الصداع بقى قوي، سير للسبيطار"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

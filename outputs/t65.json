@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Ila 7ssiti b chi 7aja khasa b s7itk, b7al sda3 qwi, skhana, awla chi 7aja akhra, khassk t3ayt 3la 150 daba. Ila ma kanch chi 7aja khasa, khassk t7awl t9oum b chwiya w t7tafa9 b 3la9a.",
+  "explanation_darija_arabic": "إلا حسيتي بشي حاجة خاصة بصحتك، بحال صداع قوي، سخانة، أو لا شي حاجة أخرى، خاصك تعيط على 150 دابا. إلا ما كانش شي حاجة خاصة، خاصك تحاول تقوم بشوية وتحافظ بعلاقة.",
+  "explanation_french": "Si vous ressentez quelque chose de grave comme un fort mal de tête, de la fièvre, ou autre, appelez le 150 immédiatement. Sinon, essayez de vous lever lentement et de rester hydraté.",
+  "next_steps": [
+    "Ila 7ssiti b chi 7aja khasa, 3ayt 3la 150 daba",
+    "Ila ma kanch chi 7aja khasa, t7awl t9oum b chwiya",
+    "T7tafa9 b 3la9a w t7awl t7arak b chwiya"
+  ],
+  "next_steps_arabic": [
+    "إلا حسيتي بشي حاجة خاصة، عيط على 150 دابا",
+    "إلا ما كانش شي حاجة خاصة، حاول تقوم بشوية",
+    "تحافظ بعلاقة وتحاول تحرك بشوية"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

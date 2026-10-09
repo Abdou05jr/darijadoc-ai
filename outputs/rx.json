@@ -1,0 +1,87 @@
+{
+  "input_language": "darija",
+  "mode": "explain",
+  "explanation_darija": "Had l'ordonnance fih talat dwiyat. Awalan, Doliprane 1000 mg, wahd l'comprimé, 3 marrat f nhar pendant 5 jours. Taniyan, Toplexil sirop 125 ml, 1 à 2 cuillères 2 marrat f nhar pendant 7 jours. Akhiran, Smecta 3 g, wahd sachet, 3 marrat f nhar men ba3d makla.",
+  "explanation_darija_arabic": "هاد الوردنانس فيه ثلاثة دويات. أولا، دوليبران 1000 ملغ، واحد الكمبريمي، 3 مرات ف النهار لمدة 5 أيام. ثانيا، توبليكسيل سيروب 125 مل، 1 إلى 2 معلقة 2 مرات ف النهار لمدة 7 أيام. أخيرا، سمكتا 3 غ، واحد الساشي، 3 مرات ف النهار من بعد الماكلة.",
+  "explanation_french": "Cette ordonnance contient trois médicaments. Premièrement, Doliprane 1000 mg, un comprimé, 3 fois par jour pendant 5 jours. Deuxièmement, Toplexil sirop 125 ml, 1 à 2 cuillères 2 fois par jour pendant 7 jours. Enfin, Smecta 3 g, un sachet, 3 fois par jour après chaque repas.",
+  "next_steps": [
+    "Sir l pharmacie bach tjib l'dwa",
+    "Taba3 l'instructions mzyan",
+    "Ila 7ssi b chi moshkil, sir l doktor"
+  ],
+  "next_steps_arabic": [
+    "سير للصيدلية باش تجيب الدوا",
+    "تابع التعليمات مزيان",
+    "إلا حسيت بشي مشكل، سير للطبيب"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": true,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": {
+    "unreadable": false,
+    "extraction_confidence": "high",
+    "doctor_name": "Dr. Amina Benali",
+    "date": "12/10/2023",
+    "medications": [
+      {
+        "name": "Doliprane",
+        "name_arabic": "دوليبران",
+        "dosage": "1000 mg",
+        "form": "comprimé",
+        "frequency": "3 marrat f nhar",
+        "timing": [
+          "f sba7",
+          "f nhar",
+          "f l3chiya"
+        ],
+        "duration": "5 jours",
+        "purpose_darija": "nqass l'wja3",
+        "purpose_darija_arabic": "نقص الوجع",
+        "purpose_french": "réduire la douleur",
+        "with_food": "unknown",
+        "warnings": [],
+        "confidence": "high"
+      },
+      {
+        "name": "Toplexil sirop",
+        "name_arabic": "توبليكسيل سيروب",
+        "dosage": "125 ml",
+        "form": "sirop",
+        "frequency": "2 marrat f nhar",
+        "timing": [
+          "f sba7",
+          "f l3chiya"
+        ],
+        "duration": "7 jours",
+        "purpose_darija": "nqass l'k7a7a",
+        "purpose_darija_arabic": "نقص الكحة",
+        "purpose_french": "réduire la toux",
+        "with_food": "unknown",
+        "warnings": [],
+        "confidence": "high"
+      },
+      {
+        "name": "Smecta",
+        "name_arabic": "سمكتا",
+        "dosage": "3 g",
+        "form": "sachet",
+        "frequency": "3 marrat f nhar",
+        "timing": [
+          "men ba3d makla"
+        ],
+        "duration": "unknown",
+        "purpose_darija": "l'isla7 l'ma3ida",
+        "purpose_darija_arabic": "لإصلاح المعدة",
+        "purpose_french": "réparer l'estomac",
+        "with_food": "after",
+        "warnings": [],
+        "confidence": "high"
+      }
+    ]
+  }
+}

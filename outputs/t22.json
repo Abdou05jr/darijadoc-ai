@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayban blli 3ndk wja3 f lme3da li kaytl3a b chwiya. Hadchi ymkn ykoun 3la 9bal lme3da awla lhazma.",
+  "explanation_darija_arabic": "كيبان بلي عندك وجع فالمعدة اللي كايطلع بشوية. هادشي يمكن يكون على قبل المعدة أو الهضمة.",
+  "explanation_french": "Il semble que vous ayez des douleurs à l'estomac qui augmentent un peu chaque jour. Cela pourrait être lié à l'estomac ou à la digestion.",
+  "next_steps": [
+    "7awel tkhwi me3dek mn lmakla l9abla",
+    "chreb lma bzzaf",
+    "ila ma t7assantich, sir 3nd tabib"
+  ],
+  "next_steps_arabic": [
+    "حاول تخوي معدتك من الماكلة القابلة",
+    "شرب الماء بزاف",
+    "إلا ما تحسنتيش، سير عند طبيب"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

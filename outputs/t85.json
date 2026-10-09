@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Katgol 3ndek skhana 38, w z00d w z00d, w ma katachri7ch. Hadchi ymkn ykoun 3la 9bal chi infection wla chi 7aja akhra.",
+  "explanation_darija_arabic": "كتقول عندك سخانة 38، وزود وزود، وما كاتشريحش. هادشي يمكن يكون على قبل شي إنفكسيون ولا شي حاجة أخرى.",
+  "explanation_french": "Vous avez une fièvre de 38, des frissons, et ça ne s'améliore pas. Cela peut être dû à une infection ou autre chose.",
+  "next_steps": [
+    "Ra7a w shrab ma kafi",
+    "Ila ma t7assantich, sir 3nd tabib",
+    "Ila zdat skhana, sir l sbitar"
+  ],
+  "next_steps_arabic": [
+    "راحة و شرب ما كافي",
+    "إلا ما تحسنتيش، سير عند طبيب",
+    "إلا زادت سخانة، سير ل سبيطار"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

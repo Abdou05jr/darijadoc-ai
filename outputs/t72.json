@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Katgoul blli 3andek 7lwi (sda3), mrd (skhana), w lyouh 3la 3in. Hadchi ymkn ykoun 3la 9bal infection awla allergie.",
+  "explanation_darija_arabic": "كاتقول بلي عندك حلوى (صداع)، مرض (سخانة)، و اليوح على عين. هادشي يمكن يكون على قبل إنفكسيون أو لا أليرجي.",
+  "explanation_french": "Vous avez mentionné avoir un mal de tête, de la fièvre et des démangeaisons aux yeux. Cela pourrait être dû à une infection ou une allergie.",
+  "next_steps": [
+    "Ra7a w shrab lma bzzaf",
+    "Ila ma t7ssantich, sir 3nd tabib",
+    "Ila kan lyouh qwi, st3ml 9atra dial 3in"
+  ],
+  "next_steps_arabic": [
+    "راحة و شرب الماء بزاف",
+    "إلا ما تحسنتيش، سير عند طبيب",
+    "إلا كان اليوح قوي، استعمل قطرة ديال عين"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

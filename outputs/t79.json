@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "ila mratek 3andha 7mar ma7 w l9iti 3liha warrm, hadchi ymkn ykoun 3la 9bal infection w khassek tshouf tabib. l7mar ma7 ymkn ykoun 3la 9bal infection, allergie, awla chi 7aja khra.",
+  "explanation_darija_arabic": "إلا مراتك عندها حمار مح و لقيتي عليها ورم، هادشي يمكن يكون على قبل إنفكسيون و خاصك تشوف طبيب. الحمار مح يمكن يكون على قبل إنفكسيون، أليرجي، أو لا شي حاجة أخرى.",
+  "explanation_french": "Si votre femme a une rougeur qui ne part pas et que vous avez trouvé un gonflement, cela peut être dû à une infection, une allergie ou autre chose. Il est important de consulter un médecin.",
+  "next_steps": [
+    "sir 3nd tabib bach ychouf l7ala",
+    "matkhallish l7ala t3ta9d bla ma tshouf tabib",
+    "ila kan l7mar ma7 kayzid, 3awd 3ayt 3la tabib"
+  ],
+  "next_steps_arabic": [
+    "سير عند طبيب باش يشوف الحالة",
+    "ما تخليش الحالة تعتقد بلا ما تشوف طبيب",
+    "إلا كان الحمار مح كيزيد، عاود عيط على طبيب"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

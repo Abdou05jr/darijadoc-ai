@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayn ihtimal blli 3ndk radwa barda. Lbest ila kanat skhana qwiya w ka7a ma katbghich t7bs, sir 3nd tabib bach ychofk.",
+  "explanation_darija_arabic": "كاين احتمال بلي عندك ردوة باردة. لبست إلا كانت السخانة قوية وكحة ما كاتبغيش تحبس، سير عند طبيب باش يشوفك.",
+  "explanation_french": "Il est possible que vous ayez un rhume. Si la fièvre est forte et la toux ne s'arrête pas, consultez un médecin.",
+  "next_steps": [
+    "Rta7 mzyan w chrb lma",
+    "Ila ma bghatch t7bs skhana, sir 3nd tabib",
+    "Taba3 l7ala dyalk, ila zadt l3rad, sir l sbitar"
+  ],
+  "next_steps_arabic": [
+    "رتاح مزيان و شرب الماء",
+    "إلا ما بغاتش تحبس السخانة، سير عند طبيب",
+    "تابع الحالة ديالك، إلا زادت الأعراض، سير ل السبيطار"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

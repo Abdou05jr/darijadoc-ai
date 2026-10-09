@@ -1,0 +1,24 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Katgoul 3andek dwa l sda3 w ma fhamtich kifach tsta3mlou. L dwat l sda3 kayn bzaaf mnnhom, w khassek t3rf kifach tsta3mlou. Sir 3nd l farmasi w souelhoum kifach tsta3mlou, w ila ma kanch 3andek l ordonnance, khassek tchouf tabib.",
+  "explanation_darija_arabic": "كاتقول عندك دوا للصداع وما فهمتيش كيفاش تستعملو. الدوات للصداع كاين بزاف منهم، وخاصك تعرف كيفاش تستعملو. سير عند الفارماسي وسولهم كيفاش تستعملو، وإلا ما كانش عندك الوصفة، خاصك تشوف طبيب.",
+  "explanation_french": "Vous dites que vous avez un médicament pour le mal de tête et que vous ne comprenez pas comment l'utiliser. Il existe plusieurs médicaments pour le mal de tête, et vous devez savoir comment les utiliser. Allez à la pharmacie et demandez-leur comment l'utiliser, et si vous n'avez pas d'ordonnance, vous devez consulter un médecin.",
+  "next_steps": [
+    "Sir 3nd l farmasi w souel kifach tsta3ml l dwa",
+    "Ila ma kanch 3andek l ordonnance, t3ayen b tabib"
+  ],
+  "next_steps_arabic": [
+    "سير عند الفارماسي وسول كيفاش تستعمل الدوا",
+    "إلا ما كانش عندك الوصفة، تعاين بطبيب"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

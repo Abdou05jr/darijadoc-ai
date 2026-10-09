@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Lkdem ma tetsenna w lfham b3diya tbdat tethder b ymkn ykoun chi 7ala 3ajla. Hadchi ymkn ykoun 3la 9bal l3a9l w l3asab.",
+  "explanation_darija_arabic": "القدم ما تتسنى والفهم بعديا تبدات تهدر ب يمكن يكون شي حالة عاجلة. هادشي يمكن يكون على قبل العقل والعصب.",
+  "explanation_french": "La jambe ne répond pas et la compréhension est affectée, cela peut être urgent. Cela peut être lié au cerveau et aux nerfs.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "Khalli chi wa7ed m3ak",
+    "Mat7arrakch bzzaf"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "خلي شي واحد معاك",
+    "متحركش بزاف"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Possible stroke or neurological issue",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

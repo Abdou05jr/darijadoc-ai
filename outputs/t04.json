@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kansme3 f wednek ymkn ykoun 3la 9bal l'oreille ou infection. L'k7a7a ymkn tkoun 3la 9bal bard ou allergie.",
+  "explanation_darija_arabic": "كنسمع ف ودنك يمكن يكون على قبل الأذن أو إنفكسيون. الكحة يمكن تكون على قبل برد أو أليجي.",
+  "explanation_french": "Entendre dans l'oreille peut être dû à une infection ou un problème d'oreille. La toux peut être due à un rhume ou une allergie.",
+  "next_steps": [
+    "Ra7 fi wednek w 7awl terta7",
+    "Chrob l-ma bzzaf bach terta7 l'k7a7a",
+    "Ila ma t7assantich, sir 3nd tabib"
+  ],
+  "next_steps_arabic": [
+    "راح في ودنك وحاول ترتاح",
+    "شرب الماء بزاف باش ترتاح الكحة",
+    "إلى ما تحسنتيش، سير عند طبيب"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

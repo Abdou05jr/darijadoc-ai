@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayban blli weldk 3ando skhana w 7mar f jeld, w ma kayrflexch 9bso. Hadchi ymkn ykoun 3la 9bal chi moshkil jiddi.",
+  "explanation_darija_arabic": "كيبان بلي ولدك عندو سخانة و حمار ف الجلد، و ما كايرفلكسش قبصو. هادشي يمكن يكون على قبل شي مشكل جدي.",
+  "explanation_french": "Il semble que votre enfant a de la fièvre, une rougeur sur la peau, et ne réagit pas quand on pince. Cela peut être sérieux.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "khalli 3ndk chi wa7ed m3ak",
+    "sir l sbitar b sr3a"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "خلي عندك شي واحد معاك",
+    "سير للسبيطار بسرعة"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Child with fever, redness, and unresponsive to pinch",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

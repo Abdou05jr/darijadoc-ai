@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "L'wja3 f wrik ymkn ykoun 3la 9bal chi haja f l3dam, l3adalat, ola l'3rou9. Ila kan l'wja3 qwi ola kaytwal, khssak tji tchoof doktor.",
+  "explanation_darija_arabic": "الوجع ف ورك يمكن يكون على قبل شي حاجة ف العظم، العضلات، أو العروق. إلا كان الوجع قوي أو كايتوال، خصك تجي تشوف دكتور.",
+  "explanation_french": "La douleur à la hanche peut être due à un problème avec les os, les muscles ou les nerfs. Si la douleur est forte ou persiste, vous devriez consulter un médecin.",
+  "next_steps": [
+    "Ra7a w mat7arakch bzzaf",
+    "Ila ma t7assantch, sir 3nd doktor",
+    "Matnsaach t9oul l'doktor 3la chi 7aja khasra"
+  ],
+  "next_steps_arabic": [
+    "راحة وما تحركش بزاف",
+    "إلا ما تحسنتش، سير عند دكتور",
+    "ماتنساش تقول للدكتور على شي حاجة خاصة"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

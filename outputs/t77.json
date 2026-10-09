@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayban 3ndek damm f ras kbir (20/12) w 7ess b 3ana3. Hadchi ymkn ykoun 3la 9bal l-qalb w l-dmagh.",
+  "explanation_darija_arabic": "كيبان عندك دم ف راس كبير (20/12) و حاس ب عنق. هادشي يمكن يكون على قبل القلب و الدماغ.",
+  "explanation_french": "Il semble que vous ayez une tension artérielle élevée (20/12) et une sensation de raideur. Cela peut être lié au cœur et au cerveau.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "Sir l sbitar b sir3a",
+    "Mat3rfch w sir b ambulance"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "سير ل سبيطار ب سرعة",
+    "ماتعرفش و سير ب أمبولانس"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "High blood pressure with neck stiffness",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

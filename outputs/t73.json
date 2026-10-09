@@ -1,0 +1,30 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Lah y3tik ss7a. L'halat dyalk kayna fiha sukr ta7, 3ini tdhour, nghoul, w 7mar. Hadchi ymkn ykoun 3la 9bal sukr ta7. Hadchi khatar w khassek t3ayt 3la 150 daba.",
+  "explanation_darija_arabic": "الله يعطيك الصحة. الحالة ديالك كاينة فيها سكر طاح، عيني تدهور، نغول، و حمار. هادشي يمكن يكون على قبل سكر طاح. هادشي خطر و خاصك تعيط على 150 دابا.",
+  "explanation_french": "Prenez soin de vous. Votre situation montre un taux de sucre bas, vision floue, nausées et rougeur. Cela peut être dû à une hypoglycémie. C'est grave, appelez le 150 immédiatement.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "Sir l sbitar 9rib lik",
+    "Matb9ach bo7dak, khalli chi wa7ed m3ak",
+    "Mat7arakch bzzaf, rest f ma7al",
+    "Chouf chi tabib men ba3d"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "سير للسبيطار قريب ليك",
+    "ما تبقاش بوحدك، خلي شي واحد معاك",
+    "ما تحركش بزاف، رست ف محل",
+    "شوف شي طبيب من بعد"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Hypoglycemia with blurred vision and nausea",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

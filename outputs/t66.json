@@ -1,0 +1,24 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "3w9 f hadi ymkn ykoun 3la 9bal darbti 3la 3jiba. Ila ma kanch 3andek sda3 qwi, skhana, wla damm men meno, hadchi ghadi ykoun mashi darouri. Khessk traya7i w t7awli t7afi9i l makan.",
+  "explanation_darija_arabic": "عوق ف هادي يمكن يكون على قبل ضربتي على عجيبة. إلا ما كانش عندك صداع قوي، سخانة، ولا دم منو، هادشي غادي يكون ماشي ضروري. خصك تريحي وتحاولي تحافظي المكان.",
+  "explanation_french": "Une douleur à cet endroit peut être due à un coup sur l'os. Si tu n'as pas de fort mal de tête, de fièvre, ou de saignement, ce n'est probablement pas grave. Tu devrais te reposer et essayer de protéger la zone.",
+  "next_steps": [
+    "Raya7i w 7afi9i l makan",
+    "Ila ma t7assanti chwiya, sir l tabib"
+  ],
+  "next_steps_arabic": [
+    "ريحي وحافظي المكان",
+    "إلا ما تحسنتي شوية، سير للطبيب"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

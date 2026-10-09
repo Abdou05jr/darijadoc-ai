@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "ila weldek kayhess b wja3 f dher mlli kaykhdem, ymkn ykoun 3la 9bal l'ergonomie dyal l'blasa fin kaykhdem. khess ydir ra7a, y9oum b tmarin l'dher, w y7awel y9oum b wa9f mlli ykhdem bzzaf.",
+  "explanation_darija_arabic": "إلا ولدك كايحس بوجع ف الظهر ملي كايخدم، يمكن يكون على قبل الإرغونومي ديال البلاصة فين كايخدم. خصو يدير راحة، يقوم بتمارين للظهر، ويحاول يقوم بوقف ملي يخدم بزاف.",
+  "explanation_french": "Si votre enfant a mal au dos en travaillant, cela peut être dû à la posture. Il devrait se reposer, faire des exercices pour le dos, et essayer de se lever régulièrement.",
+  "next_steps": [
+    "Dir ra7a w tmarin l'dher",
+    "Hawel tbadal l'ergonomie dyal l'blasa",
+    "Ila ma t7assantich, sir 3nd tabib"
+  ],
+  "next_steps_arabic": [
+    "دير راحة وتمارين للظهر",
+    "حاول تبدل الإرغونومي ديال البلاصة",
+    "إلا ما تحسنتيش، سير عند طبيب"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

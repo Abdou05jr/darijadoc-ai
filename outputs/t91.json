@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayn chi haja ma wadh7a f rass dyalk w kat7ess b chi t9ala9 mn dakhel.",
+  "explanation_darija_arabic": "كاين شي حاجة ما واضحة ف راس ديالك و كاتحس بشي تقلق من الداخل.",
+  "explanation_french": "Il y a quelque chose qui n'est pas clair dans ta tête et tu te sens tendu à l'intérieur.",
+  "next_steps": [
+    "Rta7 chwya w 7awel tnafas b 3om9",
+    "Ila b9at hadchi kaytwal, sir 3nd tabib",
+    "Matnsa t9der t3ayet l 150 ila 7ssiti b chi darouri"
+  ],
+  "next_steps_arabic": [
+    "رتاح شوية و حاول تنافس بعمق",
+    "إلا بقات هادشي كايتوال، سير عند طبيب",
+    "ماتنساش تقدر تعيط ل 150 إلا حسيت بشي ضروري"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

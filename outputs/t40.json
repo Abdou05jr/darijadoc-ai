@@ -1,0 +1,24 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayban liya blli welltek 3andha chi moshkil dyal tnafos. Ila kanat katla3 mzyan daba, khassha terta7 w tnafas b slow. Ila ma7ssatch b chi ta7ssan, sir 3nd tabib.",
+  "explanation_darija_arabic": "كيبان ليا باللي بنتك عندها شي مشكل ديال التنفس. إلا كانت كتطلع مزيان دابا، خاصها ترتاح وتنفس ببطء. إلا ماحساتش بشي تحسن، سير عند طبيب.",
+  "explanation_french": "Il semble que votre fille ait un problème de respiration. Si elle respire bien maintenant, elle doit se reposer et respirer lentement. Si elle ne se sent pas mieux, consultez un médecin.",
+  "next_steps": [
+    "Khalha terta7 w tnafas b slow",
+    "Ila ma7ssatch b chi ta7ssan, sir 3nd tabib"
+  ],
+  "next_steps_arabic": [
+    "خليها ترتاح وتنفس ببطء",
+    "إلا ماحساتش بشي تحسن، سير عند طبيب"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

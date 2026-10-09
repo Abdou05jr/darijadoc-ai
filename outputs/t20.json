@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Ila weldk ma kayftek7ich w kaybda yghma 3lih, hadchi ymkn ykoun chi 7ala tarya. Ila ma kayftek7ich 3la 9blou, khassak t3ayt 3la 150 daba bach yjiw y3awnouk.",
+  "explanation_darija_arabic": "إلا ولدك ما كايفتقحش وكايبدا يغمى عليه، هادشي يمكن يكون شي حالة طارئة. إلا ما كايفتقحش على قبلو، خاصك تعيط على 150 دابا باش يجيوا يعاونوك.",
+  "explanation_french": "Si votre enfant ne réagit pas et commence à perdre connaissance, cela peut être une urgence. S'il ne réagit pas du tout, appelez le 150 immédiatement pour obtenir de l'aide.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "khalli 3ndk chi wa7ed m3ak",
+    "sir l sbitar 9rib"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "خلي عندك شي واحد معاك",
+    "سير للسبيطار قريب"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Child unresponsive, possible emergency",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Ila weldek kay7ess b wja3 f batn mn 7mar w tla3ed, hadchi ymkn ykoun 3la 9bal lme3ida w khassek t3ayen tabib bach ychouf l7ala.",
+  "explanation_darija_arabic": "إلا ولدك كايحس بوجع ف بطن من حمار و طلعد، هادشي يمكن يكون على قبل المعدة و خاصك تعاين طبيب باش يشوف الحالة.",
+  "explanation_french": "Si votre enfant ressent une douleur abdominale qui monte et descend, cela peut être lié à l'estomac. Consultez un médecin pour vérifier.",
+  "next_steps": [
+    "3ayen tabib bach ychouf l7ala",
+    "7awel t3ti lwalid ra7a w ma ytakalch makla t9ila",
+    "ila l7ala ma7ssantch, sir l sbitar"
+  ],
+  "next_steps_arabic": [
+    "عاين طبيب باش يشوف الحالة",
+    "حاول تعطي الوليد راحة و ما يتاكلش ماكلة تقيلة",
+    "إلا الحالة ماحسنتش، سير للسبيطار"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

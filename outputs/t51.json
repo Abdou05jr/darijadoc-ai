@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayban 3ndek sda3 qwi m3a 7mar f 3ini w kayhammou. Hadchi ymkn ykoun 3la 9bal chi mouchkil f 3ini awla chi haja akhra. Ila kan sda3 qwi bzaaf w ma bghach ybda, khassak tji l tabib bach ychouf 3ini dyalk.",
+  "explanation_darija_arabic": "كيبان عندك صداع قوي مع حمار ف عيني وكايهمو. هادشي يمكن يكون على قبل شي مشكل ف عيني أو لا شي حاجة أخرى. إلا كان الصداع قوي بزاف وما بغاش يبدا، خاصك تجي للطبيب باش يشوف عيني ديالك.",
+  "explanation_french": "Il semble que vous ayez un fort mal de tête avec des rougeurs et des démangeaisons dans l'œil. Cela pourrait être dû à un problème oculaire ou autre chose. Si le mal de tête est très fort et ne s'arrête pas, vous devez consulter un médecin pour vérifier votre œil.",
+  "next_steps": [
+    "Sir 3nd tabib l 3in ila ma bghach sda3 ybda",
+    "7awel trta7 w tcharab lma",
+    "Ila sda3 zada, sir l sbitar"
+  ],
+  "next_steps_arabic": [
+    "سير عند طبيب العين إلا ما بغاش الصداع يبدا",
+    "حاول ترتاح وتشرب الماء",
+    "إلا الصداع زاد، سير للسبيطار"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

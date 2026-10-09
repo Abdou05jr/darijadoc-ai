@@ -1,0 +1,30 @@
+{
+  "input_language": "darija",
+  "mode": "explain",
+  "explanation_darija": "Ma kanchoufch mzyan had l'ordonnance, khasni tswira wadh7a b chwiya bash nqraha mzyan.",
+  "explanation_darija_arabic": "ما كنشوفش مزيان هاد الوردنانس، خاصني تصويرا واضحة بشوية باش نقراها مزيان.",
+  "explanation_french": "Je ne peux pas bien lire cette ordonnance. J'ai besoin d'une photo plus claire pour la lire correctement.",
+  "next_steps": [
+    "Sowwar l'ordonnance mzyan b lwad7a",
+    "Sir l'farmasi w sawwl 3la dawa"
+  ],
+  "next_steps_arabic": [
+    "صور الوردنانس مزيان بالواضحة",
+    "سير للفارماسي وسول على الدوا"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": {
+    "unreadable": true,
+    "extraction_confidence": "low",
+    "doctor_name": null,
+    "date": null,
+    "medications": []
+  }
+}

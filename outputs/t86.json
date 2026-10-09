@@ -1,0 +1,24 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "7eddi 3ndo 8 snin w dakhel yeddo ma tetsenna, hadchi ymkn ykoun 3la 9bal chi 7aja f l3dam w khass tabib ychoufha. Lfhm bhal dakhel ymkn ykoun 3la 9bal chi 7aja f l3dam awla l3rou9.",
+  "explanation_darija_arabic": "حدي عنده 8 سنين وداخل يدو ما تتسنى، هادشي يمكن يكون على قبل شي حاجة ف العظم وخاص طبيب يشوفها. الفهم بحال داخل يمكن يكون على قبل شي حاجة ف العظم أو العروق.",
+  "explanation_french": "Un enfant de 8 ans a une main qui ne s'ouvre pas bien. Cela pourrait être lié à un problème osseux ou nerveux. Il est important de consulter un médecin.",
+  "next_steps": [
+    "Sir 3nd tabib bach ychouf lhal",
+    "Mat3ttarch, sir l sbitar ila l7al ma t7ssnch"
+  ],
+  "next_steps_arabic": [
+    "سير عند طبيب باش يشوف الحال",
+    "ما تعطلش، سير للسبيطار إلا الحال ما تحسنش"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

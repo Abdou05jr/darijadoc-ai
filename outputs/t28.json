@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Lwja3 f sder o kayf3l 3liha ymkn ykoun chi 7aja khatira. Khassak t3ayt 3la 150 daba bach tjib l3awn.",
+  "explanation_darija_arabic": "الوجع ف الصدر و كايفعل عليها يمكن يكون شي حاجة خطيرة. خاصك تعيط على 150 دابا باش تجيب العون.",
+  "explanation_french": "La douleur à la poitrine et l'effet sur elle peuvent être graves. Appelez le 150 immédiatement pour obtenir de l'aide.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "khalli chi wa7ed m3ak",
+    "mat3rfch w sir b ambulance"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "خلي شي واحد معاك",
+    "ما تعرفش و سير بامبيلانس"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Chest pain and fainting",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

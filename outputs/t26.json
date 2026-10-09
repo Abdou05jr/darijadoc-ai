@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Lwja3 f sder m3a kayf3l 3liya tmanin ymkn ykoun chi 7aja khatira. Hadchi ymkn ykoun 3la 9bal l9alb w khassek t3ayt 3la 150 daba.",
+  "explanation_darija_arabic": "الوجع ف الصدر مع كايفعل عليا تمانين يمكن يكون شي حاجة خطيرة. هادشي يمكن يكون على قبل القلب وخاصك تعيط على 150 دابا.",
+  "explanation_french": "La douleur à la poitrine avec une sensation de pression peut être grave. Cela pourrait être lié au cœur, appelez le 150 immédiatement.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "Sir l sbitar b sr3a",
+    "Mat3rfch w sir b ambulance"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "سير ل السبيطار بسرعة",
+    "ما تعرفش وسير بامبلونس"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Chest pain with pressure sensation",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

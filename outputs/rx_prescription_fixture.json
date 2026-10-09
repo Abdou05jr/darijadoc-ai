@@ -1,0 +1,102 @@
+{
+  "input_language": "darija",
+  "mode": "explain",
+  "explanation_darija": "Had l'ordonnance katban lik 4 dwiyat. Doliprane 1000 mg, 1 comprimé, 3 merrat f nhar ila kayn wja3, f 5 yyam. Toplexil sirop, 1 3la 9a3a dial soupe, 2 merrat f nhar, f 7 yyam. Smecta 3 g, 1 sachet, 3 merrat f nhar men ba3d makla. Aer, 1 bouffée ila kayn 9al9a f tnfass.",
+  "explanation_darija_arabic": "هاد الوردنانس كاتبن ليك 4 دويات. دوليبران 1000 ملغ، 1 كومبريمي، 3 مرات ف النهار إلا كان وجع، ف 5 يام. توبليكسيل سيروب، 1 على قاعة ديال سوب، 2 مرات ف النهار، ف 7 يام. سمكتا 3 غ، 1 ساشي، 3 مرات ف النهار من بعد ماكلة. أير، 1 بوفية إلا كان قلق ف التنفس.",
+  "explanation_french": "Cette ordonnance vous prescrit 4 médicaments. Doliprane 1000 mg, 1 comprimé, 3 fois par jour si douleur, pendant 5 jours. Toplexil sirop, 1 cuillère à soupe, 2 fois par jour, pendant 7 jours. Smecta 3 g, 1 sachet, 3 fois par jour après chaque repas. Aer, 1 bouffée si gêne respiratoire.",
+  "next_steps": [
+    "Sir l pharmacie bach tjib l'dwa",
+    "Tab3 l'ta3limat li f l'ordonnance mzyan",
+    "Rj3 3nd doktor f 7 yyam bach ychof l'hal"
+  ],
+  "next_steps_arabic": [
+    "سير للفارماسي باش تجيب الدوا",
+    "تابع التعليمات اللي فالوردنانس مزيان",
+    "رجع عند الدكتور ف 7 يام باش يشوف الحال"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": true,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": {
+    "unreadable": false,
+    "extraction_confidence": "high",
+    "doctor_name": "Dr. Amina Benali",
+    "date": "12/03/2026",
+    "medications": [
+      {
+        "name": "Doliprane",
+        "name_arabic": "دوليبران",
+        "dosage": "1000 mg",
+        "form": "comprimé",
+        "frequency": "3 merrat f nhar",
+        "timing": [
+          "ila htajti"
+        ],
+        "duration": "5 yyam",
+        "purpose_darija": "l'wja3",
+        "purpose_darija_arabic": "الوجع",
+        "purpose_french": "pour la douleur",
+        "with_food": "unknown",
+        "warnings": [],
+        "confidence": "high"
+      },
+      {
+        "name": "Toplexil",
+        "name_arabic": "توبليكسيل",
+        "dosage": "1 c. a soupe",
+        "form": "sirop",
+        "frequency": "2 merrat f nhar",
+        "timing": [
+          "f sba7",
+          "f l3chiya"
+        ],
+        "duration": "7 yyam",
+        "purpose_darija": "l'k7a7a",
+        "purpose_darija_arabic": "الكحة",
+        "purpose_french": "pour la toux",
+        "with_food": "unknown",
+        "warnings": [],
+        "confidence": "high"
+      },
+      {
+        "name": "Smecta",
+        "name_arabic": "سمكتا",
+        "dosage": "3 g",
+        "form": "sachet",
+        "frequency": "3 merrat f nhar",
+        "timing": [
+          "men ba3d makla"
+        ],
+        "duration": "unknown",
+        "purpose_darija": "l'ma3ida",
+        "purpose_darija_arabic": "المعدة",
+        "purpose_french": "pour l'estomac",
+        "with_food": "after",
+        "warnings": [],
+        "confidence": "high"
+      },
+      {
+        "name": "Aer",
+        "name_arabic": "أير",
+        "dosage": "1 bouffée",
+        "form": "inhalateur",
+        "frequency": "ila htajti",
+        "timing": [
+          "ila htajti"
+        ],
+        "duration": "unknown",
+        "purpose_darija": "l'tnfass",
+        "purpose_darija_arabic": "التنفس",
+        "purpose_french": "pour la respiration",
+        "with_food": "unknown",
+        "warnings": [],
+        "confidence": "high"
+      }
+    ]
+  }
+}

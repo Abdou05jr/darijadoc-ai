@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kdam ma wghyet kayn 3la 9bal chi mouchkil f l3dam awla f l3rou9. Ila ma bghitch wja3, hadchi ymkn ykoun 3la 9bal chi 7aja bhal t9achor awla t9achor f l3dam.",
+  "explanation_darija_arabic": "كدام ما وغيت كاين على قبل شي مشكل ف العظام أو ف العروق. إلا ما بغيتش وجع، هادشي يمكن يكون على قبل شي حاجة بحال تقاشر أو تقاشر ف العظام.",
+  "explanation_french": "Un hématome qui ne fait pas mal peut être dû à un problème dans les os ou les vaisseaux sanguins. Cela peut être lié à une contusion ou une fracture.",
+  "next_steps": [
+    "Ra7a w 7awl ma t7rrkch bzaf",
+    "Ila ma bghitch t7ssn, sir 3nd tabib",
+    "Chouf ila kayn chi 7mar awla tghyar f loun"
+  ],
+  "next_steps_arabic": [
+    "راحة و حاول ما تحركش بزاف",
+    "إلا ما بغيتش تحسن، سير عند طبيب",
+    "شوف إلا كاين شي حمار أو تغير ف اللون"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

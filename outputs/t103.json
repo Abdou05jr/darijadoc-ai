@@ -1,0 +1,24 @@
+{
+  "input_language": "arabic",
+  "mode": "chat",
+  "explanation_darija": "l'9iass dyalk 9/13 kayn f l'3adi. Ma kayn 7tta mochkil ila ma kanch 3ndk chi 3alamate akhra.",
+  "explanation_darija_arabic": "القياس ديالك 9/13 كاين ف العادي. ما كاين حتى مشكل إلا ما كانش عندك شي علامات أخرى.",
+  "explanation_french": "Votre tension artérielle de 9/13 est normale. Pas de problème si vous n'avez pas d'autres symptômes.",
+  "next_steps": [
+    "kammel 3la hadchi w 3awd l'9iass ba3d chi wa9t",
+    "ila b9a chi mochkil, sir 3nd tabib"
+  ],
+  "next_steps_arabic": [
+    "كمل على هادشي وعاود القياس بعد شي وقت",
+    "إلا بقى شي مشكل، سير عند طبيب"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "7ri9a f kerchi kat3ni bzzaf dyal l7rar f lme3da. Hadchi ymkn ykoun 3la 9bal l7amodiyya f lme3da.",
+  "explanation_darija_arabic": "حريقا ف كرشي كتعني بزاف ديال الحرار ف المعدة. هادشي يمكن يكون على قبل الحموضية ف المعدة.",
+  "explanation_french": "Une sensation de brûlure dans l'estomac peut être due à l'acidité gastrique.",
+  "next_steps": [
+    "7awel t3mel rejim bla ma3daniya",
+    "ila ma t7ssantich, sir 3nd tabib",
+    "matakolch makla 7arra bzaf"
+  ],
+  "next_steps_arabic": [
+    "حاول تعمل ريجيم بلا معدنية",
+    "إلا ما تحسنتيش، سير عند طبيب",
+    "ماتاكلش ماكلة حارة بزاف"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

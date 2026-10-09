@@ -1,0 +1,26 @@
+{
+  "input_language": "arabic",
+  "mode": "chat",
+  "explanation_darija": "sda3 w do5a mn tlata dyal liyyam, walakin machi bzzaf. Hadchi ymkn ykoun 3la 9bal l3ya, stress, awla chi 7aja akhra. Ila b9a l7al kayn, sir 3nd tabib.",
+  "explanation_darija_arabic": "صداع ودوخة من ثلاثة ديال ليام، ولكن ماشي بزاف. هادشي يمكن يكون على قبل العيا، الستريس، أو لا شي حاجة أخرى. إلا بقى الحال كاين، سير عند طبيب.",
+  "explanation_french": "Vous avez un mal de tête et des vertiges depuis trois jours, mais ce n'est pas très intense. Cela pourrait être dû à la fatigue, au stress ou à autre chose. Si cela persiste, consultez un médecin.",
+  "next_steps": [
+    "ra7a w shrb lma bzzaf",
+    "ila b9a l7al kayn, sir 3nd tabib",
+    "t7awel tna9as mn stress"
+  ],
+  "next_steps_arabic": [
+    "راحة و شرب الماء بزاف",
+    "إلا بقى الحال كاين، سير عند طبيب",
+    "تحاول تنقص من الستريس"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

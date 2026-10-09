@@ -1,0 +1,24 @@
+{
+  "input_language": "french",
+  "mode": "explain",
+  "explanation_darija": "Had l-wathiqa hiya wasfa tibbiyya. Katban lik tsta3ml chi dwiyat. Amoxicilline 1g, khssek tkhodha 3 marrat f nhar lmdat 7 iyyam. Paracétamol 1g, tkhodha 3 marrat f nhar ila kan 3ndek l-wja3. Sérum physiologique 500 ml, marra f nhar. Khssek t3awd tdir contrôle f 7 iyyam.",
+  "explanation_darija_arabic": "هاد الوثيقة هي وصفة طبية. كاتبن لك تستعمل شي دوايات. Amoxicilline 1g، خاصك تاخدها 3 مرات ف النهار لمدة 7 أيام. Paracétamol 1g، تاخدها 3 مرات ف النهار إلا كان عندك الوجع. Sérum physiologique 500 ml، مرة ف النهار. خاصك تعاود تدير contrôle ف 7 أيام.",
+  "explanation_french": "Ce document est une ordonnance médicale. Il indique les médicaments à prendre. Amoxicilline 1g, à prendre 3 fois par jour pendant 7 jours. Paracétamol 1g, à prendre 3 fois par jour si douleur. Sérum physiologique 500 ml, une fois par jour. Vous devez faire un contrôle dans 7 jours.",
+  "next_steps": [
+    "Suivre les instructions de la prescription.",
+    "Prendre les médicaments comme indiqué.",
+    "Faire un contrôle après 7 jours."
+  ],
+  "next_steps_arabic": [
+    "تتبع التعليمات ديال الوصفة.",
+    "تاخد الأدوية كيفما مكتوب.",
+    "دير contrôle من بعد 7 أيام."
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "french"
+}

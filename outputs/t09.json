@@ -1,0 +1,28 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "ila weldk kayn damm men meno w ma bghach y7bes, hadchi ymkn ykoun khatar.",
+  "explanation_darija_arabic": "إلى ولدك كاين دم من منو وما بغاش يحبس، هادشي يمكن يكون خطر.",
+  "explanation_french": "Si votre enfant saigne et que ça ne s'arrête pas, cela peut être dangereux.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "7awel t7bes damm b da3t 9wiya",
+    "khalli weldk mstari7 w rafe3 rajlo",
+    "mat7arkch weldk bzzaf"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "حاول تحبس الدم بضغط قوي",
+    "خلي ولدك مستريح ورافع رجلو",
+    "متحركش ولدك بزاف"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Child bleeding that won't stop",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

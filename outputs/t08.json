@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Rash f jeld kayn 3la 9bal bzaf dyal l 7waj, b7al allergies, infections, awla moshkil f jeld. Ila kan rash kayhrek bzaf, awla kayzid f l7ajm, khssek tji tchoof tabib.",
+  "explanation_darija_arabic": "راش ف الجلد كاين على قبل بزاف ديال الحوايج، بحال الأليرجي، إنفكسيون، أو مشكل ف الجلد. إلا كان الراش كايحرق بزاف، أو كايزيد ف الحجم، خصك تجي تشوف طبيب.",
+  "explanation_french": "Une éruption cutanée peut être due à plusieurs causes, comme des allergies, des infections ou un problème de peau. Si l'éruption démange beaucoup ou s'aggrave, il faut consulter un médecin.",
+  "next_steps": [
+    "Ra7 tji tchoof tabib ila rash ma bghach ykhlass",
+    "Mat7akch rash b yeddk",
+    "Ila kan rash kayhrek, 9der tsta3ml crème m3a9ma"
+  ],
+  "next_steps_arabic": [
+    "راح تجي تشوف طبيب إلا الراش ما بغاش يخلص",
+    "متحكش الراش ب يدك",
+    "إلا كان الراش كايحرق، قدر تستعمل كريم معقم"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kaybano 3lik 3lamat dyal sda3 w t3ab. Ila kan sda3 qwi bzaaf w bda daba, khassak t3ayt 3la 150.",
+  "explanation_darija_arabic": "كيبانو عليك علامات ديال صداع وتعب. إلا كان الصداع قوي بزاف وبدا دابا، خاصك تعيط على 150.",
+  "explanation_french": "Vous semblez avoir des signes de fatigue et de maux de tête. Si le mal de tête est très fort et soudain, appelez le 150.",
+  "next_steps": [
+    "Rta7 shwiya w shrb lma",
+    "Ila ma t7ssantch, sir 3nd tabib",
+    "Ila bda sda3 qwi daba, 3ayt 3la 150"
+  ],
+  "next_steps_arabic": [
+    "رتاح شوية و شرب الما",
+    "إلا ما تحسنتش، سير عند طبيب",
+    "إلا بدا الصداع قوي دابا، عيط على 150"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

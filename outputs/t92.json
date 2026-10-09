@@ -1,0 +1,24 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "L'Youdic ghadi tdar lik ghda. Ila 3andek chi su2al 3la lprocedure, sir 3nd tabib dyalk.",
+  "explanation_darija_arabic": "ليوديك غادي تدار ليك غدا. إلا عندك شي سؤال على البروسيجير، سير عند طبيب ديالك.",
+  "explanation_french": "L'Youdic sera fait pour vous demain. Si vous avez des questions sur la procédure, consultez votre médecin.",
+  "next_steps": [
+    "Sir 3nd tabib dyalk ila 3andek chi su2al",
+    "Tayq f lprocedure w matkhafch"
+  ],
+  "next_steps_arabic": [
+    "سير عند طبيب ديالك إلا عندك شي سؤال",
+    "تيق فالبروسيجير وما تخافش"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

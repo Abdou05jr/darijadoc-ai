@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Sda3 li kaydoum kayn 3la 3lach bzaaf dyal l7wayj, mn stress, l3ya, l9ila dyal lma, awla chi moshkil f l3in. Ila kan sda3 qwi w ma kaytla7ch, sir 3nd tabib bach ychouf 3lach.",
+  "explanation_darija_arabic": "صداع لي كيدوم كاين على علاش بزاف ديال الحوايج، من سترس، العيا، القلة ديال الما، أو لا شي مشكل ف العين. إلا كان صداع قوي وما كايتلاحش، سير عند طبيب باش يشوف علاش.",
+  "explanation_french": "Un mal de tête persistant peut être dû à plusieurs raisons, comme le stress, la fatigue, le manque d'eau, ou un problème aux yeux. Si le mal de tête est fort et ne passe pas, consultez un médecin pour en déterminer la cause.",
+  "next_steps": [
+    "Khoud ra7a w shrab lma bzzaf",
+    "Ila ma t7ssantich, sir 3nd tabib",
+    "T7arrak chwiya w 7awel tna9as men stress"
+  ],
+  "next_steps_arabic": [
+    "خود راحة و شرب الما بزاف",
+    "إلا ما تحسنتش، سير عند طبيب",
+    "تحرك شوية و حاول تناقص من سترس"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

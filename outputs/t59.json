@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayban 3ndk l3in mkhddra w kayna ihtimal dyal infection. L3in 7mra w kat7ss b l'alam, ymkn ykoun 3la 9bal chi infection f l3in.",
+  "explanation_darija_arabic": "كيبان عندك العين مخضرة و كاينة احتمال ديال إنفكسيون. العين حمراء و كتحس بالألم، يمكن يكون على قبل شي إنفكسيون ف العين.",
+  "explanation_french": "Il semble que vous ayez une irritation ou une infection à l'œil. L'œil est rouge et douloureux, cela pourrait être dû à une infection.",
+  "next_steps": [
+    "Sir 3nd tabib l3in bach ychof l3in dyalk",
+    "Matmschch 3in dyalk b ydik",
+    "Ila kan l'alam qwi, sir l sbitar"
+  ],
+  "next_steps_arabic": [
+    "سير عند طبيب العين باش يشوف العين ديالك",
+    "ماتمسخش عين ديالك بيدك",
+    "إلا كان الألم قوي، سير ل السبيطار"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

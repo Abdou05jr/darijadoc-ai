@@ -1,0 +1,26 @@
+{
+  "input_language": "french",
+  "mode": "chat",
+  "explanation_darija": "Kat7ss b wja3 f l7alq w skhana mn lbare7. Hadchi ymkn ykoun 3la 9bal l7alq.",
+  "explanation_darija_arabic": "كتحس بوجع ف الحلق و سخانة من البارح. هادشي يمكن يكون على قبل الحلق.",
+  "explanation_french": "Vous ressentez un mal de gorge et de la fièvre depuis hier. Cela pourrait être lié à la gorge.",
+  "next_steps": [
+    "Rta7 mzyan w shrb lma bzzaf",
+    "Khassek t3awd t9is lhrar dyalk",
+    "Ila b9at skhana, sir 3nd tabib"
+  ],
+  "next_steps_arabic": [
+    "رتاح مزيان و شرب الما بزاف",
+    "خاصك تعاود تقيس الحرارة ديالك",
+    "إلا بقات السخانة، سير عند طبيب"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "french",
+  "prescription": null
+}

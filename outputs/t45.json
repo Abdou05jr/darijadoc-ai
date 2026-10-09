@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "7mar men 7mar9 kayn 3nd lghalib, w ila kan 3ayad bzaf, ymkn ykoun 3la 9bal l3ayn. Ila ma khafch f nharayn, sir 3nd tabib.",
+  "explanation_darija_arabic": "حمار من حمارق كاين عند الغالب، وإلا كان عياد بزاف، يمكن يكون على قبل العين. إلا ما خافش ف نهارين، سير عند طبيب.",
+  "explanation_french": "Les yeux rouges sont fréquents. Si cela persiste, cela peut être lié aux yeux. Consultez un médecin si ça ne s'améliore pas en deux jours.",
+  "next_steps": [
+    "7awel terta7 chwiya w ma t7akch 3inik",
+    "ila ma khafch f nharayn, sir 3nd tabib",
+    "ila 7ssiti b chi 7aja khatir, 3ayt 3la 150"
+  ],
+  "next_steps_arabic": [
+    "حاول ترتاح شوية وما تحكش عينك",
+    "إلا ما خافش ف نهارين، سير عند طبيب",
+    "إلا حسيت بشي حاجة خطير، عيط على 150"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

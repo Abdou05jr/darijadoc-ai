@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Lwja3 f 9li ymkn ykoun 3la 9bal l'usage zayed d l'dwa. L9li hiya l'kebda, w hna khassak tkon 7ader. Ila kan lwja3 qwi bzaaf, sir 3and tabib.",
+  "explanation_darija_arabic": "الوجع ف القلي يمكن يكون على قبل الاستعمال الزايد للدوا. القلي هي الكبدة، وهنا خاصك تكون حادر. إلا كان الوجع قوي بزاف، سير عند طبيب.",
+  "explanation_french": "La douleur au foie peut être due à une utilisation excessive de médicaments. Le foie est important, soyez prudent. Si la douleur est très forte, consultez un médecin.",
+  "next_steps": [
+    "7awel t9el men l'dwa",
+    "sir 3and tabib ila ma t7assantich",
+    "chrob lma bzzaf"
+  ],
+  "next_steps_arabic": [
+    "حاول تقلل من الدوا",
+    "سير عند طبيب إلا ما تحسنتيش",
+    "شرب الماء بزاف"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kaybano 3lik chi 7mar f l3in w chi 7aja fl jibha. Hadchi ymkn ykoun 3la 9bal chi t7assos awla chi infection.",
+  "explanation_darija_arabic": "كيبانو عليك شي حمار ف العين و شي حاجة ف الجبهة. هادشي يمكن يكون على قبل شي تحسس أو لا شي إنفكسيون.",
+  "explanation_french": "Il semble que vous ayez une rougeur à l'œil et quelque chose sur le front. Cela pourrait être dû à une allergie ou une infection.",
+  "next_steps": [
+    "Sir 3nd tabib bach ychouf l3in dyalk",
+    "Matqrbch 3in dyalk b ydik",
+    "Ila kan l7mar kayzid, sir l sbitar"
+  ],
+  "next_steps_arabic": [
+    "سير عند طبيب باش يشوف العين ديالك",
+    "ما تقربش عين ديالك بيديك",
+    "إلا كان الحمار كيزيد، سير للسبيطار"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

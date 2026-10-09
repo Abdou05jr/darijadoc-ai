@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Sda3 qwi bzaf o ghadi bghit 3ayt 3la 150 daba, 7it hadchi ymkn ykoun 3la 9bal chi moshkil f lmo5.",
+  "explanation_darija_arabic": "صداع قوي بزاف و غادي بغيت عيط على 150 دابا، حيت هادشي يمكن يكون على قبل شي مشكل ف المخ.",
+  "explanation_french": "C'est un mal de tête très fort. Appelez le 150 immédiatement, cela pourrait être un problème sérieux.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "Sir l sbitar b sr3a",
+    "Matb9ach tsta3ml ay dwal bla ra2y tabib"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "سير للمستشفى بسرعة",
+    "ما تبقاش تستعمل أي دواء بلا رأي طبيب"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Severe headache, possible neurological issue",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

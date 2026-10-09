@@ -1,0 +1,24 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Ma n9drch n9olk wach 3andek 7ri9a. Ila skhana katdoum wla katzid, sir 3nd tabib bach ychoufak.",
+  "explanation_darija_arabic": "ما نقدرش نقولك واش عندك حريقا. إلا السخانة كاتدوم ولا كاتزيد، سير عند طبيب باش يشوفك.",
+  "explanation_french": "Je ne peux pas dire si vous avez une infection. Si la fièvre persiste ou augmente, consultez un médecin.",
+  "next_steps": [
+    "Rta7 w chrb lma bzzaf",
+    "Ila skhana ma tna9shtch, sir 3nd tabib"
+  ],
+  "next_steps_arabic": [
+    "رتاح و شرب الما بزاف",
+    "إلا السخانة ما تنقصتش، سير عند طبيب"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

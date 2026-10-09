@@ -1,0 +1,24 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayn chi 7aja ma wadh7a f hadchi. Wach kat3ni b '7mar' chi 7aja f jismk, wla chi 7aja akhra? Ila kat3ni chi 7aja f jismk, bhal skhana wla 7mar f l3in, khassk t3awd t9oul chi haja akthar mfa9a.",
+  "explanation_darija_arabic": "كاين شي حاجة ما واضحة ف هادشي. واش كتعني ب 'حمار' شي حاجة ف جسمك، ولا شي حاجة أخرى؟ إلا كتعني شي حاجة ف جسمك، بحال سخانة ولا حمار ف العين، خاصك تعاود تقول شي حاجة أكثر مفصلة.",
+  "explanation_french": "Il y a quelque chose de pas clair ici. Par '7mar', est-ce que tu parles de quelque chose dans ton corps, ou autre chose? Si tu parles de quelque chose dans ton corps, comme de la fièvre ou des rougeurs, il faut préciser un peu plus.",
+  "next_steps": [
+    "3awd t9oul chi haja akthar mfa9a",
+    "Ila kat3ni chi 7aja f jismk, sir 3nd tabib"
+  ],
+  "next_steps_arabic": [
+    "عاود تقول شي حاجة أكثر مفصلة",
+    "إلا كتعني شي حاجة ف جسمك، سير عند طبيب"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

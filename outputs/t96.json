@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Ldarba f rass katdir wja3, w skhana katban 3la chi 7aja khayba. Khassak t3ayenha mzyan.",
+  "explanation_darija_arabic": "الضربة ف الراس كاتدير وجع، و السخانة كاتبان على شي حاجة خايبة. خاصك تعاينها مزيان.",
+  "explanation_french": "Un coup à la tête peut causer de la douleur, et la fièvre peut indiquer un problème. Il faut vérifier.",
+  "next_steps": [
+    "Ra7 f rassha w 7awel tkhaliha terta7",
+    "3ayt 3la tabib ila ma t7assnatsh",
+    "Koun 3la bal b chi 3alamat khatir"
+  ],
+  "next_steps_arabic": [
+    "راح ف راسها و حاول تخليها ترتاح",
+    "عيط على طبيب إلا ما تحسنتش",
+    "كون على بال بشي علامات خطير"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

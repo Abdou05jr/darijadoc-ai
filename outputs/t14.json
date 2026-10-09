@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayt7ar9 lik f kerch men ba3d makla ymkn ykoun 3la 9bal l7ar9 dyal lma3ida. Hadchi kayn mlli l7amid dyal lma3ida ytal3 lfoq. Ila kan hadchi kaytkrar bzzaf, sir 3nd tabib.",
+  "explanation_darija_arabic": "كايحرق ليك ف الكرش من بعد ماكلة يمكن يكون على قبل الحرق ديال المعدة. هادشي كاين ملي الحمض ديال المعدة يطلع لفوق. إلا كان هادشي كايتكرر بزاف، سير عند طبيب.",
+  "explanation_french": "La sensation de brûlure dans l'estomac après avoir mangé peut être due à un reflux acide. Cela se produit lorsque l'acide de l'estomac remonte. Si cela se répète souvent, consultez un médecin.",
+  "next_steps": [
+    "7awel tna9es men lma3akil li kaydir l7ar9",
+    "Sir 3nd tabib ila b9a kaytkrar",
+    "Shreb lma bzzaf bach t9elil l7arara"
+  ],
+  "next_steps_arabic": [
+    "حاول تنقص من الماكلة اللي كايدير الحرق",
+    "سير عند طبيب إلا بقى كايتكرر",
+    "شرب الماء بزاف باش تقلل الحرارة"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "7mar f l7amla ymkn ykoun 3la 9bal na9s f l7did. khssek t3ayni 3nd tabib bash y3ref sbab w y3tik dawa li kayna.",
+  "explanation_darija_arabic": "حمار ف الحمل يمكن يكون على قبل نقص ف الحديد. خصك تعايني عند طبيب باش يعرف سبب ويعطيك دوا اللي كاينة.",
+  "explanation_french": "L'anémie pendant la grossesse peut être due à un manque de fer. Il est important de consulter un médecin pour déterminer la cause et obtenir le traitement approprié.",
+  "next_steps": [
+    "Sir 3nd tabib bash y3ref sbab 7mar",
+    "Tayb lmakla li fih l7did",
+    "Matnsa chrob lma bzzaf"
+  ],
+  "next_steps_arabic": [
+    "سير عند طبيب باش يعرف سبب حمار",
+    "طيب الماكلة اللي فيها الحديد",
+    "ماتنساش تشرب الماء بزاف"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

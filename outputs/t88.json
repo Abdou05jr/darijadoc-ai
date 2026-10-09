@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayban liya rah 3ndek chi moshkil f tnfass, w hadchi ymkn ykoun 3la 9bal l9lb wla lriya. Ila kan 3ndek chi 7aja mn hadchi, khassak t3ayt 3la 150 daba.",
+  "explanation_darija_arabic": "كيبان ليا راه عندك شي مشكل ف التنفس، و هادشي يمكن يكون على قبل القلب ولا الريا. إلا كان عندك شي حاجة من هادشي، خاصك تعيط على 150 دابا.",
+  "explanation_french": "Il semble que vous ayez un problème de respiration, ce qui peut être lié au cœur ou aux poumons. Si c'est le cas, appelez le 150 immédiatement.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "7awl tb9a hani w ma t7arakch bzzaf",
+    "ila kan chi wa7ed m3ak, khallih y3awnk"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "حاول تبقى هاني و ما تحركش بزاف",
+    "إلا كان شي واحد معاك، خليه يعاونك"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Difficulty breathing and possible heart issue",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

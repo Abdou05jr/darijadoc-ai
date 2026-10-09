@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Ila ma t9derch tchof b 3in wa7da w 3andek wej3 f 3inha, hadchi ymkn ykoun 3la 9bal chi moshkil jddi. L'vision lli ma tban f 3in wa7da howa chi haja khatir w khassek t3ayt 3la 150 daba.",
+  "explanation_darija_arabic": "إلا ما تقدرش تشوف بعين وحدة وعندك وجع في عينها، هادشي يمكن يكون على قبل شي مشكل جدي. الرؤية اللي ما تبان في عين وحدة هو شي حاجة خطير وخاصك تعيط على 150 دابا.",
+  "explanation_french": "Si vous ne pouvez pas voir avec un œil et que vous avez mal, cela peut être sérieux. La perte de vision dans un œil est grave, appelez le 150 immédiatement.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "sir l sbitar 9rib lik",
+    "mat3rfch w sir b ambulance"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "سير للمستشفى قريب ليك",
+    "ما تعرفش وسير بالإسعاف"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Sudden vision loss in one eye",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

@@ -1,0 +1,26 @@
+{
+  "input_language": "mixed",
+  "mode": "chat",
+  "explanation_darija": "L wja3 f ras ymkn ykoun 3la 9bal bzaf d l 7wayj, b7al l stress, l tension, awla l migrene. Youdic kayn fiha l paracetamol li kaynqes l wja3, walakin ila kan l wja3 kaydoum bzaf, khassak tji tchouf l doktor.",
+  "explanation_darija_arabic": "الوجع ف راس يمكن يكون على قبل بزاف د الحوايج، بحال الستريس، التنسيو، أو لا الميگرين. يوديك كاين فيها الباراسيتامول اللي كاينقص الوجع، ولكن إلا كان الوجع كيدوم بزاف، خاصك تجي تشوف الدكتور.",
+  "explanation_french": "Le mal de tête peut être dû à plusieurs raisons, comme le stress, la tension ou la migraine. Youdic contient du paracétamol qui réduit la douleur, mais si la douleur persiste, il faut consulter un médecin.",
+  "next_steps": [
+    "Ra7a w 9el men l stress",
+    "Ila ma t7assantich, sir 3nd doktor",
+    "Matkhodch l dwa bla ma tchouf doktor"
+  ],
+  "next_steps_arabic": [
+    "راحة وقلل من الستريس",
+    "إلا ما تحسنتيش، سير عند دكتور",
+    "ما تاخدش الدوا بلا ما تشوف دكتور"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Palpitation hiya mlli l9elb kaydir bzzaf dial darbat f wa9t qasir. 9la9 f war9 ymkn ykoun 3la 9bal tension awla stress.",
+  "explanation_darija_arabic": "بالبيطاسيون هي ملي القلب كيدير بزاف ديال الضربات ف وقت قصير. قلق ف الورق يمكن يكون على قبل التنسيو أو لا الستريس.",
+  "explanation_french": "Les palpitations sont quand le cœur bat très vite. L'anxiété peut être due à la tension ou au stress.",
+  "next_steps": [
+    "7awel trta7 w tnafs b3om9",
+    "ila b9at lhal, sir 3nd tabib",
+    "t7aqaq men tension dialek"
+  ],
+  "next_steps_arabic": [
+    "حاول ترتاح و تنافس بعمق",
+    "إلا بقات الحال، سير عند طبيب",
+    "تحقق من التنسيو ديالك"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

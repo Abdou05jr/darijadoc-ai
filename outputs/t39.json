@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "7ettan b 3w9 kayn f jismk w kaytza3d. Hada ymkn ykoun 3la 9bal chi moshkil f l3dam aw l3adalat.",
+  "explanation_darija_arabic": "حيتان ب عوق كاين ف جسمك و كايتزاد. هدا يمكن يكون على قبل شي مشكل ف العظام أو العضلات.",
+  "explanation_french": "Vous avez une douleur qui augmente depuis 3 jours. Cela peut être lié à un problème musculaire ou osseux.",
+  "next_steps": [
+    "Ra7a w 7awl ma t7arrakch bzzaf",
+    "Chrb lma bzzaf bach t9awi jismk",
+    "Ila ma t7ssantch, sir 3nd tabib f 24 sa3a"
+  ],
+  "next_steps_arabic": [
+    "راحة و حاول ما تحركش بزاف",
+    "شرب الماء بزاف باش تقوي جسمك",
+    "إلا ما تحسنتش، سير عند طبيب ف 24 ساعة"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

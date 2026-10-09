@@ -1,0 +1,26 @@
+{
+  "input_language": "arabic",
+  "mode": "chat",
+  "explanation_darija": "ila ma kntich ktnfs mzyan, hadchi ymkn ykoun khatar bzaf. khassak t3ayt 3la 150 daba.",
+  "explanation_darija_arabic": "إلا ما كنتيش كتنفس مزيان، هادشي يمكن يكون خطر بزاف. خاصك تعيط على 150 دابا.",
+  "explanation_french": "Si vous avez des difficultés à respirer, cela peut être très grave. Appelez le 150 immédiatement.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "khalli chi wa7ed m3ak",
+    "sir l sbitar ila ma t3aytch 3la 150"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "خلي شي واحد معاك",
+    "سير للسبيطار إلا ما عيطش على 150"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Difficulty breathing reported",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

@@ -1,0 +1,24 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Ma n9drch n3tik l7adoul dyal chi dwa. Suwal tabib dyalk awla saydali.",
+  "explanation_darija_arabic": "ما نقدرش نعطيك الحدول ديال شي دوا. سول طبيب ديالك أولا صيدالي.",
+  "explanation_french": "Je ne peux pas te donner le dosage d'un médicament. Demande à ton médecin ou pharmacien.",
+  "next_steps": [
+    "Suwal tabib dyalk 3la l7adoul",
+    "Suwal saydali 3la l7adoul"
+  ],
+  "next_steps_arabic": [
+    "سول طبيب ديالك على الحدول",
+    "سول صيدالي على الحدول"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

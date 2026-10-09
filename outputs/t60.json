@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Kayn 7aja f 3inik katdir lik l7aka w l7rara. Hadchi ymkn ykoun 3la 9bal l7assasiya awla infection. Ila kan l7al khatir, sir l doktor.",
+  "explanation_darija_arabic": "كاين حاجة ف عينك كاتدير ليك الحكة والحرارة. هادشي يمكن يكون على قبل الحساسية أو لا إنفكسيون. إلا كان الحال خطير، سير للطبيب.",
+  "explanation_french": "Il y a quelque chose dans votre œil qui cause des démangeaisons et de la chaleur. Cela pourrait être dû à une allergie ou une infection. Si c'est grave, consultez un médecin.",
+  "next_steps": [
+    "7awel tghsel 3inik b lma sakhoun",
+    "ila ma t7ssantich, sir l doktor",
+    "mat7akch 3inik b yedik"
+  ],
+  "next_steps_arabic": [
+    "حاول تغسل عينك بالماء الساخون",
+    "إلا ما تحسنتيش، سير للطبيب",
+    "ما تحكش عينك بيديك"
+  ],
+  "urgency_level": "medium",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "Sou9an kayn 3la 9bal gala. Gala hiya 7ala f l7alq wla f lma3ida li katdir l7arara w l7ri9a. Ila kant gala qwiya, khassak tji l tabib bach ychouf 3lik.",
+  "explanation_darija_arabic": "سوقان كاين على قبل القالة. القالة هي حالة ف الحلق ولا ف المعدة اللي كاتدير الحرارة والحريقة. إلا كانت القالة قوية، خاصك تجي للطبيب باش يشوف عليك.",
+  "explanation_french": "Le souqane est dû à l'acidité. L'acidité est une condition dans la gorge ou l'estomac qui cause de la chaleur et des brûlures. Si l'acidité est forte, vous devez consulter un médecin pour qu'il vous examine.",
+  "next_steps": [
+    "7awel tna9es men lmakla li katdir l7ari9a",
+    "chreb lma bzzaf bach t7afed 3la lma3ida",
+    "ila ma t7assantich, sir 3nd tabib"
+  ],
+  "next_steps_arabic": [
+    "حاول تنقص من الماكلة اللي كاتدير الحريقة",
+    "شرب الماء بزاف باش تحافظ على المعدة",
+    "إلا ما تحسنتيش، سير عند طبيب"
+  ],
+  "urgency_level": "low",
+  "emergency": false,
+  "emergency_reason": null,
+  "location_required": false,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}

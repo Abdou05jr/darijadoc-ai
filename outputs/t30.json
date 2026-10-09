@@ -1,0 +1,26 @@
+{
+  "input_language": "darija",
+  "mode": "chat",
+  "explanation_darija": "ila rak rkhit bzzaf w 3andek wja3 f sder, hadchi ymkn ykoun khatar. khessak t3ayt 3la 150 daba.",
+  "explanation_darija_arabic": "إلا راك رخيت بزاف وعندك وجع ف الصدر، هادشي يمكن يكون خطر. خصك تعيط على 150 دابا.",
+  "explanation_french": "Si vous vous sentez très faible et avez une douleur à la poitrine, cela peut être grave. Appelez le 150 immédiatement.",
+  "next_steps": [
+    "3ayt 3la 150 daba — Appelez le 150 immédiatement",
+    "khalli chi wa7ed m3ak",
+    "mat7arakch bzzaf"
+  ],
+  "next_steps_arabic": [
+    "عيط على 150 دابا",
+    "خلي شي واحد معاك",
+    "متحركش بزاف"
+  ],
+  "urgency_level": "high",
+  "emergency": true,
+  "emergency_reason": "Chest pain and weakness",
+  "location_required": true,
+  "requires_pharmacy_lookup": false,
+  "disclaimer": "hadchi mjarrad chra7, machorch dakter awla.",
+  "disclaimer_arabic": "هادشي مجرد شرح، مشورش دكتور أولا.",
+  "tts_priority": "darija",
+  "prescription": null
+}
